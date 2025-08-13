@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 # Hi, I'm Maha!
 
 Welcome to my portfolio website.
