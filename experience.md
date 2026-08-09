@@ -3,8 +3,6 @@ layout: default
 title: Professional Experience
 ---
 
-[Home](index.md) · [About](about.md) · [Research](research.md) · [Teaching](teaching.md) · [Professional Experience](experience.md) · [Projects](projects.md)
-
 # Professional Experience
 
 ## Consultant — 2023–2025
