@@ -5,31 +5,34 @@ title: Home
 
 # Hi, I'm Maha 👋
 
-I’m a data analyst with a background in **Mathematics & Computer Science** and an MSc in **Data Analytics for Business and Society**.
+I’m a data analyst and applied researcher with a background in **Mathematics & Computer Science** and an MSc in **Data Analytics for Business and Society** from Ca’ Foscari University of Venice.
 
-My work focuses on applying data analysis, statistical modelling, machine learning, and causal/policy-evaluation methods to real-world questions — with a growing emphasis on **health data, health economics, ageing, and responsible data analysis**.
+My work combines **data analytics, econometrics, causal inference, health economics, and data science**. I am particularly interested in using real-world and longitudinal data to study health, ageing, family, and public-policy questions.
 
-This site is where I document selected projects from my MSc and related research training in a reproducible, portfolio-ready format.
+I currently hold a research grant at the **Department of Economics, Ca’ Foscari University of Venice**, where I contribute to research using SHARE and causal-inference methods and work on long-term-care policy analysis.
 
-## What you’ll find here
+## Research and analytical interests
 
-- 🩺 **Health data science** and applied statistical modelling
-- 📊 **Econometrics and policy evaluation**
+- 🩺 **Health economics and health data science**
+- 📊 **Applied microeconometrics and causal inference**
+- 👵 **Economics of ageing**
+- 🧑‍🤝‍🧑 **Family economics and human capital**
 - 🤖 **Machine learning and predictive modelling**
 - 🧠 **NLP and topic modelling**
-- 🧮 **Optimization and quantitative modelling**
 - 🔁 Reproducible workflows in **R, Python, and Stata**
 
 ## Featured project
 
 ### Factors Influencing Adult Obesity in the United States
 
-An applied analysis of the **2022 Behavioral Risk Factor Surveillance System (BRFSS)** using descriptive analysis, logistic regression, multinomial and ordinal models, and a state-level mixed-effects model.
+An applied health-data science analysis of the **2022 Behavioral Risk Factor Surveillance System (BRFSS)**. The project covers data preparation, descriptive and probability analysis, binary and multivariable logistic regression, multinomial and ordinal models, model comparison, and a state-level mixed-effects model.
 
 ➡️ [Explore the project](projects.md)
 
 ## Portfolio
 
-📊 [View all projects](projects.md)
-
-📫 **Email:** mahagasim@gmail.com
+📊 [Projects](projects.md)  
+📄 [Curriculum Vitae](cv.md)  
+💼 [LinkedIn](https://www.linkedin.com/in/maha-gasim-678975122)  
+💻 [GitHub](https://github.com/mahagasim)  
+📫 [Email me](mailto:mahagasim@gmail.com)
