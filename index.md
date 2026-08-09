@@ -1,41 +1,19 @@
 ---
 layout: default
-title: Home
+title: About
 ---
 
-<div class="academic-hero">
-  <div>
-    <h1>Maha Gasim</h1>
-    <p class="role-line">Applied researcher in health economics, ageing, and causal inference</p>
-    <p class="hero-summary">I am a data analyst and applied researcher with a background in Mathematics and Computer Science and an MSc in Data Analytics for Business and Society from Ca’ Foscari University of Venice. My work focuses on quantitative research using longitudinal and cross-country data, with particular interests in health, ageing, family, and policy evaluation.</p>
-    <div class="academic-links">
-      <a href="research.html">Research</a>
-      <a href="projects.html">Technical projects</a>
-      <a href="about.html">Education & training</a>
-      <a href="mailto:mahagasim@gmail.com">Email</a>
-    </div>
-  </div>
+# Maha Gasim
 
-  <aside class="profile-meta">
-    <dl>
-      <dt>Current position</dt>
-      <dd>Research Grant Holder, Department of Economics, Ca’ Foscari University of Venice</dd>
+<p class="contact-line">Venice, Italy · <a href="mailto:mahagasim@gmail.com">Email</a> · <a href="https://www.linkedin.com/in/maha-gasim-678975122">LinkedIn</a> · <a href="https://github.com/mahagasim">GitHub</a></p>
 
-      <dt>Location</dt>
-      <dd>Venice, Italy</dd>
+<p class="lead">I am a data analyst and applied researcher with a background in Mathematics and Computer Science and an MSc in Data Analytics for Business and Society from Ca’ Foscari University of Venice. My work focuses on quantitative analysis of health, ageing, family, and public-policy questions, with particular interests in causal inference and applied microeconomics.</p>
 
-      <dt>Methods</dt>
-      <dd>Causal inference, microeconometrics, longitudinal data analysis, statistical modelling</dd>
+I currently hold a research grant at the Department of Economics, Ca’ Foscari University of Venice, where I work with SHARE data, causal-inference methods, and long-term-care policy analysis.
 
-      <dt>Tools</dt>
-      <dd>Stata, R, Python</dd>
-    </dl>
-  </aside>
-</div>
+## Research Interests
 
-## Research interests
-
-<ul class="interest-list">
+<ul class="two-column-list">
   <li>Applied microeconomics</li>
   <li>Microeconometrics and causal inference</li>
   <li>Health economics</li>
@@ -44,36 +22,60 @@ title: Home
   <li>Economics of human capital</li>
 </ul>
 
-## Current research
-
-<div class="home-entry">
-  <h3>Marrying after the Unilateral Divorce Law: Long-run Effects on Later-life Cognition</h3>
-  <p class="meta">With V. Angelini, M. Bertoni, G. Pasini, and D. Cavapozzi</p>
-  <p>Research on the long-run effects of unilateral divorce laws on later-life cognitive outcomes using SHARE and modern causal-inference methods. Presented at the University of Trieste on 27 March 2026.</p>
-  <a class="text-link" href="research.html">Research experience and outputs →</a>
-</div>
-
-## Selected technical project
-
-<div class="home-entry">
-  <h3>Factors Influencing Adult Obesity in the United States</h3>
-  <p class="meta">Health Data Science · BRFSS 2022 · R · Stata</p>
-  <p>Applied analysis of the 2022 Behavioral Risk Factor Surveillance System using data preparation, descriptive analysis, binary and multivariable logistic regression, multinomial and ordinal models, model comparison, and a state-level mixed-effects model.</p>
-  <a class="text-link" href="projects.html">View project summary →</a>
-</div>
-
 ## Education
 
-<div class="home-entry">
+<div class="entry">
   <h3>MSc in Data Analytics for Business and Society</h3>
-  <p class="meta">Ca’ Foscari University of Venice · 2024</p>
-  <p><strong>Thesis:</strong> <em>The Health Consequences of Family Dissolution Late in Life: Evidence from SHARE.</em></p>
+  <p class="entry-meta">Ca’ Foscari University of Venice · Venice, Italy · 2024</p>
+  <p><span class="project-label">Thesis:</span> <em>The Health Consequences of Family Dissolution Late in Life: Evidence from SHARE.</em><br>
+  <span class="project-label">Supervisors:</span> Danilo Cavapozzi and Giacomo Pasini.</p>
 </div>
 
-<div class="home-entry">
+<div class="entry">
   <h3>BSc (Honours) in Mathematics and Computer Science</h3>
-  <p class="meta">University of Khartoum · 2021</p>
-  <p><strong>Thesis:</strong> <em>Predicting Students’ Final Grades Using Naive Bayes.</em></p>
+  <p class="entry-meta">University of Khartoum · Khartoum, Sudan · 2021</p>
+  <p><span class="project-label">Thesis:</span> <em>Predicting Students’ Final Grades Using Naive Bayes.</em><br>
+  <span class="project-label">Supervisor:</span> Mohammed Khalid Hassan Mohammed.</p>
 </div>
 
-<p class="research-note">This website presents selected research, teaching, professional experience, and technical work relevant to my academic and research profile. Full details are available in the dedicated pages above.</p>
+## Advanced Training
+
+<div class="entry">
+  <h3>Inequalities in Health and Healthcare</h3>
+  <p class="entry-meta">Tinbergen Institute Summer School · Online · July 2026</p>
+  <p>Training in inequality and inequity measurement, decomposition, normative evaluation, distributional cost-effectiveness analysis, and equity-sensitive population-health measurement. Instructors: Owen O’Donnell and Tom Van Ourti.</p>
+</div>
+
+<div class="entry">
+  <h3>Causal Inference I</h3>
+  <p class="entry-meta">Mixtape Sessions · Online · September–October 2025</p>
+  <p>Design-based causal inference covering randomization inference, selection bias, matching, instrumental variables, and regression discontinuity. Instructor: Scott Cunningham, Baylor University.</p>
+</div>
+
+<div class="entry">
+  <h3>Panel Data for Causal Research Designs</h3>
+  <p class="entry-meta">Italian Econometric Association (SIdE) and FBK-IRVAPP · Bertinoro, Italy · June–July 2025</p>
+  <p>PhD-level training in fixed effects, difference-in-differences, staggered-treatment designs, and synthetic controls. Instructors: Erich Battistin, Enrico Rettore, Sergiu Burlacu, and Alessio Tomelleri.</p>
+</div>
+
+<div class="entry">
+  <h3>Google Data Analytics Professional Certificate</h3>
+  <p class="entry-meta">Google / Coursera · Online · May–August 2021</p>
+  <p>Eight-course certificate covering data cleaning, processing, visualization, R programming, spreadsheets, SQL, and analytical communication.</p>
+</div>
+
+## Technical Skills
+
+<ul class="skills-list">
+  <li><span class="project-label">Statistical tools:</span> Stata, R, Python</li>
+  <li><span class="project-label">Data visualization:</span> Microsoft Power BI, Google Looker, Qlik Sense</li>
+  <li><span class="project-label">Qualitative analysis:</span> Dedoose</li>
+</ul>
+
+## Languages
+
+<ul class="skills-list">
+  <li><span class="project-label">Arabic:</span> Native</li>
+  <li><span class="project-label">English:</span> C1</li>
+  <li><span class="project-label">Italian:</span> A1</li>
+</ul>
