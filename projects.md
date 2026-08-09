@@ -3,8 +3,6 @@ layout: default
 title: Projects
 ---
 
-[Home](index.md) · [About](about.md) · [Research](research.md) · [Teaching](teaching.md) · [Professional Experience](experience.md) · [Projects](projects.md)
-
 # Projects
 
 This portfolio highlights selected applied data-analysis and data-science work from my MSc and related research training. I focus on reproducible workflows, statistical modelling, causal and policy-oriented questions, machine learning, and responsible use of real-world data.
