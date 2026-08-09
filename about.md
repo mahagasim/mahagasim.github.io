@@ -3,8 +3,6 @@ layout: default
 title: About
 ---
 
-[Home](index.md) · [About](about.md) · [Research](research.md) · [Teaching](teaching.md) · [Professional Experience](experience.md) · [Projects](projects.md)
-
 # About Me
 
 ## Maha Gasim Omer Fdlalseed
