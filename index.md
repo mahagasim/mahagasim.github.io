@@ -5,9 +5,9 @@ title: About
 
 # Maha Gasim
 
-<p class="contact-line">Venice, Italy · <a href="mailto:mahagasim@gmail.com">Email</a> · <a href="https://www.linkedin.com/in/maha-gasim-678975122">LinkedIn</a> · <a href="https://github.com/mahagasim">GitHub</a></p>
+<p class="contact-line">Maha Gasim Omer Fdlalseed · Venice, Italy · <a href="mailto:mahagasim@gmail.com">mahagasim@gmail.com</a> · +39 379 216 3909 · <a href="https://www.linkedin.com/in/maha-gasim-678975122">LinkedIn</a> · <a href="https://github.com/mahagasim">GitHub</a></p>
 
-<p class="lead">I am a data analyst and applied researcher with a background in Mathematics and Computer Science and an MSc in Data Analytics for Business and Society from Ca’ Foscari University of Venice. My work focuses on quantitative analysis of health, ageing, family, and public-policy questions, with particular interests in causal inference and applied microeconomics.</p>
+<p class="lead">I am a data analyst and applied researcher with a background in Mathematics and Computer Science and an MSc in Data Analytics for Business and Society from Ca’ Foscari University of Venice. My research interests lie at the intersection of applied microeconomics, health economics, ageing, family economics, and causal inference.</p>
 
 I currently hold a research grant at the Department of Economics, Ca’ Foscari University of Venice, where I work with SHARE data, causal-inference methods, and long-term-care policy analysis.
 
@@ -27,15 +27,15 @@ I currently hold a research grant at the Department of Economics, Ca’ Foscari 
 <div class="entry">
   <h3>MSc in Data Analytics for Business and Society</h3>
   <p class="entry-meta">Ca’ Foscari University of Venice · Venice, Italy · 2024</p>
-  <p><span class="project-label">Thesis:</span> <em>The Health Consequences of Family Dissolution Late in Life: Evidence from SHARE.</em><br>
-  <span class="project-label">Supervisors:</span> Danilo Cavapozzi and Giacomo Pasini.</p>
+  <p>Thesis: <em>The Health Consequences of Family Dissolution Late in Life: Evidence from SHARE.</em><br>
+  Supervisors: Danilo Cavapozzi and Giacomo Pasini.</p>
 </div>
 
 <div class="entry">
   <h3>BSc (Honours) in Mathematics and Computer Science</h3>
   <p class="entry-meta">University of Khartoum · Khartoum, Sudan · 2021</p>
-  <p><span class="project-label">Thesis:</span> <em>Predicting Students’ Final Grades Using Naive Bayes.</em><br>
-  <span class="project-label">Supervisor:</span> Mohammed Khalid Hassan Mohammed.</p>
+  <p>Thesis: <em>Predicting Students’ Final Grades Using Naive Bayes.</em><br>
+  Supervisor: Mohammed Khalid Hassan Mohammed.</p>
 </div>
 
 ## Advanced Training
@@ -43,7 +43,7 @@ I currently hold a research grant at the Department of Economics, Ca’ Foscari 
 <div class="entry">
   <h3>Inequalities in Health and Healthcare</h3>
   <p class="entry-meta">Tinbergen Institute Summer School · Online · July 2026</p>
-  <p>Training in inequality and inequity measurement, decomposition, normative evaluation, distributional cost-effectiveness analysis, and equity-sensitive population-health measurement. Instructors: Owen O’Donnell and Tom Van Ourti.</p>
+  <p>Inequality and inequity measurement, decomposition, normative evaluation, distributional cost-effectiveness analysis, and equity-sensitive population-health measurement. Instructors: Owen O’Donnell and Tom Van Ourti.</p>
 </div>
 
 <div class="entry">
@@ -67,15 +67,15 @@ I currently hold a research grant at the Department of Economics, Ca’ Foscari 
 ## Technical Skills
 
 <ul class="skills-list">
-  <li><span class="project-label">Statistical tools:</span> Stata, R, Python</li>
-  <li><span class="project-label">Data visualization:</span> Microsoft Power BI, Google Looker, Qlik Sense</li>
-  <li><span class="project-label">Qualitative analysis:</span> Dedoose</li>
+  <li><span class="label">Statistical tools:</span> Stata, R, Python</li>
+  <li><span class="label">Data visualization:</span> Microsoft Power BI, Google Looker, Qlik Sense</li>
+  <li><span class="label">Qualitative analysis:</span> Dedoose</li>
 </ul>
 
 ## Languages
 
 <ul class="skills-list">
-  <li><span class="project-label">Arabic:</span> Native</li>
-  <li><span class="project-label">English:</span> C1</li>
-  <li><span class="project-label">Italian:</span> A1</li>
+  <li><span class="label">Arabic:</span> Native</li>
+  <li><span class="label">English:</span> C1</li>
+  <li><span class="label">Italian:</span> A1</li>
 </ul>
