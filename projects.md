@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Projects
+title: Selected Analytical Work
 ---
 
-# Projects
+# Selected Analytical Work
 
-<p class="page-intro">Selected technical projects that complement my research profile and demonstrate applied data analysis, statistical modelling, reproducible workflows, and responsible data handling.</p>
+<p class="page-intro">Selected analytical work from my MSc coursework and related technical development. These analyses complement my research profile by demonstrating applied data analysis, statistical modelling, reproducible workflows, and responsible data handling.</p>
 
 <div class="project-entry">
   <div class="project-title">Factors Influencing Adult Obesity in the United States</div>
@@ -17,9 +17,9 @@ title: Projects
 
   <p><span class="label">Data:</span> 445,132 observations in the initial public-use BRFSS extract; 39,551 observations in the final analytical sample.</p>
 
-  <p><span class="label">Context:</span> originally completed as a Health Data Science group project with Amal Ahmed and Arnela Halili. I later reorganized and audited the project materials for reproducibility and documentation.</p>
+  <p><span class="label">Context:</span> originally completed as a Health Data Science group project with Amal Ahmed and Arnela Halili. I later reorganized and audited the materials for reproducibility and documentation.</p>
 
   <a class="project-link" href="https://github.com/mahagasim/adult-obesity-brfss-analysis">Code, results and documentation</a>
 </div>
 
-<p class="meta-line">Additional MSc projects will be added as their code, outputs, data provenance, and documentation are reviewed for reproducibility.</p>
+<p class="meta-line">Additional MSc analytical work will be added as the code, outputs, data provenance, and documentation are reviewed for reproducibility.</p>
