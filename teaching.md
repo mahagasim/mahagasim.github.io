@@ -3,8 +3,6 @@ layout: default
 title: Teaching
 ---
 
-[Home](index.md) · [About](about.md) · [Research](research.md) · [Teaching](teaching.md) · [Professional Experience](experience.md) · [Projects](projects.md)
-
 # Teaching
 
 ## Teaching Assistant (Esercitatrice), Introduction to Econometrics — 2025–2026
