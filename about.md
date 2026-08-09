@@ -3,17 +3,17 @@ layout: default
 title: About
 ---
 
-# About Me
+# About
 
 **Maha Gasim Omer Fdlalseed**  
-**Data Analyst · Applied Researcher · Health Data Science**  
+Applied researcher and data analyst  
 Venice, Italy  
-📧 [mahagasim@gmail.com](mailto:mahagasim@gmail.com) · 📱 +39 379 216 3909  
-💼 [LinkedIn](https://www.linkedin.com/in/maha-gasim-678975122) · 💻 [GitHub](https://github.com/mahagasim)
+[mahagasim@gmail.com](mailto:mahagasim@gmail.com) · +39 379 216 3909  
+[LinkedIn](https://www.linkedin.com/in/maha-gasim-678975122) · [GitHub](https://github.com/mahagasim)
 
-I am a data analyst and applied researcher with a background in **Mathematics and Computer Science** and an MSc in **Data Analytics for Business and Society**. My academic and research interests focus on applied microeconomics, causal inference, health economics, ageing, family economics, and the use of quantitative methods with real-world data.
+<p class="page-intro">I am a data analyst and applied researcher with training in mathematics, computer science, data analytics, econometrics, causal inference, and health economics. My academic interests center on using quantitative methods and real-world data to study health, ageing, family, and policy questions.</p>
 
-## Research Interests
+## Research interests
 
 - Applied microeconomics
 - Microeconometrics and causal inference
@@ -36,7 +36,7 @@ I am a data analyst and applied researcher with a background in **Mathematics an
 - **Thesis:** *Predicting Students’ Final Grades Using Naive Bayes.*
 - **Supervisor:** Mohammed Khalid Hassan Mohammed.
 
-## Advanced Training
+## Advanced training
 
 ### Inequalities in Health and Healthcare — Jul. 2026
 **Tinbergen Institute Summer School**, Online
@@ -61,7 +61,7 @@ I am a data analyst and applied researcher with a background in **Mathematics an
 
 - Eight-course certificate covering data cleaning, processing, visualisation, R programming, spreadsheets, SQL, and analytical communication.
 
-## Technical Skills
+## Technical skills
 
 **Statistical tools:** Stata, R, Python  
 **Data visualisation:** Microsoft Power BI, Google Looker, Qlik Sense  
