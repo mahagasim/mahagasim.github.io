@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#18324a">
+  <meta name="description" content="{{ page.description | default: site.description | escape }}">
+  <title>{% if page.title and page.title != 'Home' %}{{ page.title }} · {% endif %}Maha Gasim</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  <header class="site-header">
+    <div class="nav-shell">
+      <a class="brand" href="{{ '/' | relative_url }}" aria-label="Maha Gasim home">
+        <span class="brand-name">Maha Gasim</span>
+        <span class="brand-subtitle">Applied Research · Data Science</span>
+      </a>
+
+      <nav class="site-nav" aria-label="Primary navigation">
+        <a href="{{ '/' | relative_url }}"{% if page.title == 'Home' %} class="active"{% endif %}>Home</a>
+        <a href="{{ '/about.html' | relative_url }}"{% if page.title == 'About' %} class="active"{% endif %}>About</a>
+        <a href="{{ '/research.html' | relative_url }}"{% if page.title == 'Research' %} class="active"{% endif %}>Research</a>
+        <a href="{{ '/teaching.html' | relative_url }}"{% if page.title == 'Teaching' %} class="active"{% endif %}>Teaching</a>
+        <a href="{{ '/experience.html' | relative_url }}"{% if page.title == 'Professional Experience' %} class="active"{% endif %}>Experience</a>
+        <a href="{{ '/projects.html' | relative_url }}"{% if page.title == 'Projects' %} class="active"{% endif %}>Projects</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="site-main">
+    <article class="content{% if page.title == 'Home' %} home-content{% endif %}">
+      {{ content }}
+    </article>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-shell">
+      <div>
+        <strong>Maha Gasim</strong><br>
+        <span>Applied research, health economics, causal inference & data science</span>
+      </div>
+      <div class="footer-links">
+        <a href="mailto:mahagasim@gmail.com">Email</a>
+        <a href="https://www.linkedin.com/in/maha-gasim-678975122">LinkedIn</a>
+        <a href="https://github.com/mahagasim">GitHub</a>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>
