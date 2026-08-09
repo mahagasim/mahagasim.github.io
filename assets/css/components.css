@@ -1,0 +1,124 @@
+.hero {
+  padding: 6px 0 8px;
+  max-width: 820px;
+}
+
+.eyebrow {
+  margin: 0 0 0.8rem !important;
+  color: var(--accent) !important;
+  font-size: 0.76rem !important;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.hero h1 {
+  margin-bottom: 0.85rem;
+  font-size: clamp(3rem, 8vw, 5.3rem);
+}
+
+.hero-lead {
+  max-width: 790px;
+  color: var(--ink-soft);
+  font-size: clamp(1.15rem, 2.6vw, 1.38rem);
+  line-height: 1.65;
+}
+
+.portfolio-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
+  margin: 1.35rem 0 0.5rem;
+}
+
+.portfolio-card {
+  position: relative;
+  min-height: 150px;
+  padding: 22px 22px 20px;
+  border: 1px solid var(--line);
+  border-radius: 13px;
+  background: #fbfcfb;
+  color: var(--ink);
+  text-decoration: none;
+  transition: transform 160ms ease, border-color 160ms ease, box-shadow 160ms ease;
+}
+
+.portfolio-card:hover {
+  transform: translateY(-2px);
+  border-color: #b9ceca;
+  box-shadow: 0 10px 24px rgba(24, 50, 74, 0.07);
+}
+
+.portfolio-card span {
+  display: block;
+  margin-bottom: 22px;
+  color: var(--accent);
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.1em;
+}
+
+.portfolio-card strong {
+  display: block;
+  margin-bottom: 5px;
+  color: var(--ink);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.22rem;
+}
+
+.portfolio-card small {
+  display: block;
+  color: var(--muted);
+  font-size: 0.88rem;
+  line-height: 1.5;
+}
+
+.featured-project {
+  margin-top: 1.3rem;
+  padding: 28px 30px;
+  border: 1px solid #cbdad7;
+  border-radius: 14px;
+  background: linear-gradient(135deg, #f8fbfa 0%, #edf4f2 100%);
+}
+
+.featured-project h3 {
+  margin: 0 0 0.9rem;
+  font-size: 1.55rem;
+}
+
+.text-link {
+  display: inline-block;
+  margin-top: 0.35rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.connect-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 1.2rem;
+}
+
+.connect-links a {
+  display: inline-block;
+  padding: 8px 13px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: #fbfcfb;
+  color: var(--ink-soft);
+  font-size: 0.9rem;
+  font-weight: 650;
+  text-decoration: none;
+}
+
+.connect-links a:hover {
+  border-color: #b8cdca;
+  color: var(--accent);
+}
+
+@media (max-width: 680px) {
+  .portfolio-grid { grid-template-columns: 1fr; }
+  .portfolio-card { min-height: 130px; }
+  .featured-project { padding: 22px 20px; }
+}
