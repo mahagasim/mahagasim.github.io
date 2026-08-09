@@ -3,8 +3,6 @@ layout: default
 title: Research
 ---
 
-[Home](index.md) · [About](about.md) · [Research](research.md) · [Teaching](teaching.md) · [Professional Experience](experience.md) · [Projects](projects.md)
-
 # Research
 
 My research experience combines applied microeconomics, causal inference, ageing research, and long-term-care policy analysis using harmonized cross-country data.
