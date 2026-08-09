@@ -3,37 +3,77 @@ layout: default
 title: Home
 ---
 
-<div class="hero">
-  <p class="eyebrow">Applied research · health data · causal inference</p>
-  <h1>Maha Gasim</h1>
-  <p class="hero-lead">I’m a data analyst and applied researcher with a background in <strong>Mathematics & Computer Science</strong> and an MSc in <strong>Data Analytics for Business and Society</strong> from Ca’ Foscari University of Venice.</p>
-  <p>My work combines data analytics, econometrics, causal inference, health economics, and data science. I am particularly interested in using real-world and longitudinal data to study health, ageing, family, and public-policy questions.</p>
-  <p>I currently hold a research grant at the <strong>Department of Economics, Ca’ Foscari University of Venice</strong>, where I contribute to research using SHARE and causal-inference methods and work on long-term-care policy analysis.</p>
+<div class="academic-hero">
+  <div>
+    <h1>Maha Gasim</h1>
+    <p class="role-line">Applied researcher in health economics, ageing, and causal inference</p>
+    <p class="hero-summary">I am a data analyst and applied researcher with a background in Mathematics and Computer Science and an MSc in Data Analytics for Business and Society from Ca’ Foscari University of Venice. My work focuses on quantitative research using longitudinal and cross-country data, with particular interests in health, ageing, family, and policy evaluation.</p>
+    <div class="academic-links">
+      <a href="research.html">Research</a>
+      <a href="projects.html">Technical projects</a>
+      <a href="about.html">Education & training</a>
+      <a href="mailto:mahagasim@gmail.com">Email</a>
+    </div>
+  </div>
+
+  <aside class="profile-meta">
+    <dl>
+      <dt>Current position</dt>
+      <dd>Research Grant Holder, Department of Economics, Ca’ Foscari University of Venice</dd>
+
+      <dt>Location</dt>
+      <dd>Venice, Italy</dd>
+
+      <dt>Methods</dt>
+      <dd>Causal inference, microeconometrics, longitudinal data analysis, statistical modelling</dd>
+
+      <dt>Tools</dt>
+      <dd>Stata, R, Python</dd>
+    </dl>
+  </aside>
 </div>
 
-## Explore my portfolio
+## Research interests
 
-<div class="portfolio-grid">
-  <a class="portfolio-card" href="about.html"><span>01</span><strong>About</strong><small>Education, training, skills & languages</small></a>
-  <a class="portfolio-card" href="research.html"><span>02</span><strong>Research</strong><small>Fellowships, work in progress & policy reports</small></a>
-  <a class="portfolio-card" href="teaching.html"><span>03</span><strong>Teaching</strong><small>Econometrics and hands-on Stata instruction</small></a>
-  <a class="portfolio-card" href="experience.html"><span>04</span><strong>Experience</strong><small>Professional roles, MEAL & service</small></a>
-  <a class="portfolio-card" href="projects.html"><span>05</span><strong>Projects</strong><small>Reproducible analytics and data-science work</small></a>
+<ul class="interest-list">
+  <li>Applied microeconomics</li>
+  <li>Microeconometrics and causal inference</li>
+  <li>Health economics</li>
+  <li>Economics of ageing</li>
+  <li>Family economics</li>
+  <li>Economics of human capital</li>
+</ul>
+
+## Current research
+
+<div class="home-entry">
+  <h3>Marrying after the Unilateral Divorce Law: Long-run Effects on Later-life Cognition</h3>
+  <p class="meta">With V. Angelini, M. Bertoni, G. Pasini, and D. Cavapozzi</p>
+  <p>Research on the long-run effects of unilateral divorce laws on later-life cognitive outcomes using SHARE and modern causal-inference methods. Presented at the University of Trieste on 27 March 2026.</p>
+  <a class="text-link" href="research.html">Research experience and outputs →</a>
 </div>
 
-## Featured project
+## Selected technical project
 
-<div class="featured-project">
-  <p class="eyebrow">Health Data Science · BRFSS 2022 · R · Stata</p>
+<div class="home-entry">
   <h3>Factors Influencing Adult Obesity in the United States</h3>
-  <p>An applied health-data science analysis of the <strong>2022 Behavioral Risk Factor Surveillance System (BRFSS)</strong>. The project covers data preparation, descriptive and probability analysis, binary and multivariable logistic regression, multinomial and ordinal models, model comparison, and a state-level mixed-effects model.</p>
-  <a class="text-link" href="projects.html">Explore the project →</a>
+  <p class="meta">Health Data Science · BRFSS 2022 · R · Stata</p>
+  <p>Applied analysis of the 2022 Behavioral Risk Factor Surveillance System using data preparation, descriptive analysis, binary and multivariable logistic regression, multinomial and ordinal models, model comparison, and a state-level mixed-effects model.</p>
+  <a class="text-link" href="projects.html">View project summary →</a>
 </div>
 
-## Connect
+## Education
 
-<div class="connect-links">
-  <a href="https://www.linkedin.com/in/maha-gasim-678975122">LinkedIn</a>
-  <a href="https://github.com/mahagasim">GitHub</a>
-  <a href="mailto:mahagasim@gmail.com">Email</a>
+<div class="home-entry">
+  <h3>MSc in Data Analytics for Business and Society</h3>
+  <p class="meta">Ca’ Foscari University of Venice · 2024</p>
+  <p><strong>Thesis:</strong> <em>The Health Consequences of Family Dissolution Late in Life: Evidence from SHARE.</em></p>
 </div>
+
+<div class="home-entry">
+  <h3>BSc (Honours) in Mathematics and Computer Science</h3>
+  <p class="meta">University of Khartoum · 2021</p>
+  <p><strong>Thesis:</strong> <em>Predicting Students’ Final Grades Using Naive Bayes.</em></p>
+</div>
+
+<p class="research-note">This website presents selected research, teaching, professional experience, and technical work relevant to my academic and research profile. Full details are available in the dedicated pages above.</p>
