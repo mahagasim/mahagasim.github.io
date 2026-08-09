@@ -79,3 +79,16 @@ I currently hold a research grant at the Department of Economics, Ca’ Foscari 
   <li><span class="label">English:</span> C1</li>
   <li><span class="label">Italian:</span> A1</li>
 </ul>
+
+## Learning, encoded
+
+<div class="learning-visual">
+  <figure>
+    <img src="assets/images/learning-journey.svg" alt="Concentric rings containing the binary encoding of Learning is a continuous journey">
+  </figure>
+  <div class="learning-copy">
+    <p>I created this visual around a simple idea: learning is continuous. The expanding rings represent knowledge accumulating over time, while the binary reflects my background in mathematics and computer science.</p>
+    <p class="decoding-line"><code>01001100</code> = L &nbsp; <code>01000101</code> = E &nbsp; <code>01000001</code> = A &nbsp; …</p>
+    <p>The complete ASCII sequence decodes to <strong>LEARNING IS A CONTINUOUS JOURNEY.</strong></p>
+  </div>
+</div>
