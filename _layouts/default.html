@@ -12,7 +12,10 @@
 <body>
   <header class="site-header">
     <div class="nav-shell">
-      <a class="brand" href="{{ '/' | relative_url }}" aria-label="Maha Gasim home">Maha Gasim</a>
+      <a class="brand" href="{{ '/' | relative_url }}" aria-label="Maha Gasim home">
+        <img class="brand-mark" src="{{ '/assets/images/binary-mark.svg' | relative_url }}" alt="">
+        <span>Maha Gasim</span>
+      </a>
 
       <nav class="site-nav" aria-label="Primary navigation">
         <a href="{{ '/research.html' | relative_url }}"{% if page.title == 'Research Grants' %} class="active"{% endif %}>Research Grants</a>
