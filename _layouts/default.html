@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="#6d8eaa">
+  <meta name="theme-color" content="#3f647f">
   <meta name="description" content="{{ page.description | default: site.description | escape }}">
   <title>{% if page.title and page.title != 'Home' %}{{ page.title }} · {% endif %}Maha Gasim</title>
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
@@ -14,11 +14,10 @@
     <div class="nav-shell">
       <a class="brand" href="{{ '/' | relative_url }}" aria-label="Maha Gasim home">
         <span class="brand-name">Maha Gasim</span>
-        <span class="brand-subtitle">Applied Research · Data Science</span>
+        <span class="brand-subtitle">Applied Microeconomics · Health Economics · Causal Inference</span>
       </a>
 
       <nav class="site-nav" aria-label="Primary navigation">
-        <a href="{{ '/' | relative_url }}"{% if page.title == 'Home' %} class="active"{% endif %}>Home</a>
         <a href="{{ '/about.html' | relative_url }}"{% if page.title == 'About' %} class="active"{% endif %}>About</a>
         <a href="{{ '/research.html' | relative_url }}"{% if page.title == 'Research' %} class="active"{% endif %}>Research</a>
         <a href="{{ '/teaching.html' | relative_url }}"{% if page.title == 'Teaching' %} class="active"{% endif %}>Teaching</a>
@@ -29,7 +28,7 @@
   </header>
 
   <main class="site-main">
-    <article class="content{% if page.title == 'Home' %} home-content{% endif %}">
+    <article class="content">
       {{ content }}
     </article>
   </main>
@@ -38,7 +37,7 @@
     <div class="footer-shell">
       <div>
         <strong>Maha Gasim</strong><br>
-        <span>Applied research, health economics, causal inference & data science</span>
+        <span>Venice, Italy</span>
       </div>
       <div class="footer-links">
         <a href="mailto:mahagasim@gmail.com">Email</a>
