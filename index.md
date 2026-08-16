@@ -1,50 +1,17 @@
 ---
 layout: default
 title: About
-description: Maha Gasim — researcher in causal inference, health data, applied microeconometrics, and reproducible computational research.
+description: Maha Gasim — researcher in causal inference, health data, and applied microeconometrics.
 ---
 
 <div class="hero">
   <p class="eyebrow">Causal inference · Health data · Applied microeconometrics</p>
   <h1>Maha Gasim</h1>
-  <p class="hero-lead">I am a researcher at the Department of Economics, Ca’ Foscari University of Venice, with a background in mathematics, computer science, and data analytics. My work focuses on credible causal analysis with observational health and policy data, with particular interests in ageing, family and social policy, synthetic and anonymized health data, and reproducible computational research.</p>
+  <p class="hero-lead">I am a researcher at the Department of Economics, Ca’ Foscari University of Venice, with a background in mathematics, computer science, and data analytics. My work focuses on credible causal analysis with observational health and policy data, with particular interests in ageing, family and social policy.</p>
   <div class="hero-links">
     <a href="mailto:mahagasim@gmail.com">Email</a>
     <a href="https://www.linkedin.com/in/maha-gasim-678975122">LinkedIn</a>
     <a href="https://github.com/mahagasim">GitHub</a>
-  </div>
-</div>
-
-## Research focus
-
-<ul class="focus-grid">
-  <li>Causal inference with observational health data</li>
-  <li>Causal utility of synthetic and anonymized health data</li>
-  <li>Privacy–utility trade-offs</li>
-  <li>High-dimensional and Double Machine Learning methods</li>
-  <li>Applied microeconometrics and policy evaluation</li>
-  <li>Reproducible computational research</li>
-</ul>
-
-## Current research
-
-<div class="entry">
-  <h3>Research Grant Holder · Department of Economics</h3>
-  <p class="entry-meta">Ca’ Foscari University of Venice · January 2025–Present</p>
-  <p>I contribute to empirical projects on family policy, social policy, and later-life outcomes. My current work includes SHARE-based research on unilateral divorce laws and later-life cognition, an ongoing project on maternity-leave generosity and mental health, and comparative long-term-care policy research for the Gateway to Global Aging Data.</p>
-  <p><a class="text-link" href="research.html">More about my research →</a></p>
-</div>
-
-## Methods and data
-
-<div class="split-grid">
-  <div>
-    <h3>Causal and statistical methods</h3>
-    <p>G-computation; IPW and AIPW; cross-fitting and Double Machine Learning; regularized regression; panel data and fixed effects; instrumental variables; difference-in-differences and staggered adoption; regression discontinuity; synthetic control; wild cluster bootstrap inference.</p>
-  </div>
-  <div>
-    <h3>Data and programming</h3>
-    <p>Python, R, and Stata; BRFSS; SHARE; HRS-family harmonized ageing datasets; harmonized cross-country panel construction; policy variables coded from primary legal sources across languages.</p>
   </div>
 </div>
 
@@ -82,6 +49,25 @@ description: Maha Gasim — researcher in causal inference, health data, applied
   </div>
 </div>
 
+## Methods and data
+
+<div class="split-grid">
+  <div>
+    <h3>Causal and statistical methods</h3>
+    <p>IPW and AIPW; cross-fitting; machine learning; regularized regression; panel data and fixed effects; instrumental variables; difference-in-differences and staggered adoption; regression discontinuity; synthetic control; wild cluster bootstrap inference.</p>
+  </div>
+  <div>
+    <h3>Data and programming</h3>
+    <p>Python, R, and Stata; BRFSS; SHARE; HRS-family harmonized ageing datasets; harmonized cross-country panel construction; policy variables coded from primary legal sources across languages.</p>
+  </div>
+</div>
+
 ## Languages
 
 Arabic (native) · English (C1) · Italian (A1)
+
+## About the icon
+
+<div class="entry">
+  <p>The circular mark beside my name is built from concentric rings carrying the ASCII binary encoding of <strong>“LEARNING IS A CONTINUOUS JOURNEY.”</strong> The design connects my background in mathematics and computer science with a principle that has shaped how I approach research, teaching, and professional development: learning does not end with a degree or a particular stage of a career.</p>
+</div>
