@@ -68,6 +68,11 @@ Arabic (native) · English (C1)
 
 ## About the icon
 
-<div class="entry">
-  <p>The circular mark beside my name is built from concentric rings carrying the ASCII binary encoding of <strong>“LEARNING IS A CONTINUOUS JOURNEY.”</strong> The design connects my background in mathematics and computer science with a principle that has shaped how I approach research, teaching, and professional development: learning does not end with a degree or a particular stage of a career.</p>
+<div class="learning-visual">
+  <figure>
+    <img src="{{ '/assets/images/learning-journey.svg' | relative_url }}" alt="Concentric binary rings encoding Learning is a Continuous Journey">
+  </figure>
+  <div class="learning-copy">
+    <p>The circular mark beside my name is built from concentric rings carrying the ASCII binary encoding of <strong>“LEARNING IS A CONTINUOUS JOURNEY.”</strong> The design connects my background in mathematics and computer science with a principle that has shaped how I approach research, teaching, and professional development: learning does not end with a degree or a particular stage of a career.</p>
+  </div>
 </div>
