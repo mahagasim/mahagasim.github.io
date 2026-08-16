@@ -86,5 +86,3 @@ title: Projects & Analytical Work
 
   <a class="project-link" href="https://github.com/mahagasim/Business-Project-monte-carlo-or-bayesian">View project repository</a>
 </div>
-
-<p class="meta-line">Only public repositories are listed here. Project descriptions are aligned with the documented analyses and results in the corresponding repositories.</p>
