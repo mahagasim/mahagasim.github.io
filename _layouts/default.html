@@ -3,22 +3,35 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="#18384a">
+  <meta name="theme-color" content="#17324d">
   <meta name="description" content="{{ page.description | default: site.description | escape }}">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/svg+xml" href="{{ '/assets/images/learning-mark.svg' | relative_url }}">
+  <link rel="shortcut icon" href="{{ '/assets/images/learning-mark.svg' | relative_url }}">
+
   <title>{% if page.title and page.title != 'About' %}{{ page.title }} · {% endif %}Maha Gasim</title>
+
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/learning.css' | relative_url }}">
 </head>
 <body>
   <header class="site-header">
     <div class="nav-shell">
-      <a class="brand" href="{{ '/' | relative_url }}" aria-label="Maha Gasim home">Maha Gasim</a>
+      <a class="brand" href="{{ '/' | relative_url }}" aria-label="Maha Gasim home">
+        <img
+          class="brand-mark"
+          src="{{ '/assets/images/learning-mark.svg' | relative_url }}"
+          alt="Learning is a continuous journey symbol">
+        <span class="brand-text">Maha Gasim</span>
+      </a>
 
       <nav class="site-nav" aria-label="Primary navigation">
-        <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} class="active" aria-current="page"{% endif %}>About</a>
-        <a href="{{ '/research.html' | relative_url }}"{% if page.url == '/research.html' %} class="active" aria-current="page"{% endif %}>Research</a>
-        <a href="{{ '/projects.html' | relative_url }}"{% if page.url == '/projects.html' %} class="active" aria-current="page"{% endif %}>Projects</a>
-        <a href="{{ '/teaching.html' | relative_url }}"{% if page.url == '/teaching.html' %} class="active" aria-current="page"{% endif %}>Teaching</a>
-        <a href="{{ '/experience.html' | relative_url }}"{% if page.url == '/experience.html' %} class="active" aria-current="page"{% endif %}>Experience</a>
+        <a href="{{ '/' | relative_url }}"{% if page.title == 'About' %} class="active"{% endif %}>About</a>
+        <a href="{{ '/research.html' | relative_url }}"{% if page.title == 'Research' %} class="active"{% endif %}>Research</a>
+        <a href="{{ '/projects.html' | relative_url }}"{% if page.title == 'Projects & Analytical Work' %} class="active"{% endif %}>Projects</a>
+        <a href="{{ '/teaching.html' | relative_url }}"{% if page.title == 'Teaching' %} class="active"{% endif %}>Teaching</a>
+        <a href="{{ '/experience.html' | relative_url }}"{% if page.title == 'Professional Experience' %} class="active"{% endif %}>Experience</a>
       </nav>
     </div>
   </header>
@@ -31,8 +44,7 @@
 
   <footer class="site-footer">
     <div class="footer-shell">
-      <span>© {{ site.time | date: '%Y' }} Maha Gasim</span>
-      <span class="footer-note">Causal inference · Health data · Applied microeconometrics</span>
+      <span>Maha Gasim · Venice, Italy</span>
       <div class="footer-links">
         <a href="mailto:mahagasim@gmail.com">Email</a>
         <a href="https://www.linkedin.com/in/maha-gasim-678975122">LinkedIn</a>
