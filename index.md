@@ -64,7 +64,7 @@ description: Maha Gasim — researcher in causal inference, health data, and app
 
 ## Languages
 
-Arabic (native) · English (C1) · Italian (A1)
+Arabic (native) · English (C1)
 
 ## About the icon
 
