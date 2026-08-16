@@ -54,16 +54,3 @@ description: Research experience, work in progress, and policy publications by M
   <p>Tang, H., Lee, Y., Gasim, M., &amp; Knapp, D. Gateway to Global Aging Data, University of Southern California.</p>
   <p class="entry-meta">Under review.</p>
 </div>
-
-## Research toolkit
-
-<div class="split-grid">
-  <div>
-    <h3>Methods</h3>
-    <p>G-computation; IPW and AIPW; cross-fitting and Double Machine Learning; regularized regression; panel data and fixed effects; instrumental variables; difference-in-differences and staggered adoption; regression discontinuity; synthetic control; wild cluster bootstrap inference.</p>
-  </div>
-  <div>
-    <h3>Data</h3>
-    <p>BRFSS; SHARE; HRS-family harmonized ageing datasets; harmonized cross-country panel construction; primary legal and policy sources across languages.</p>
-  </div>
-</div>
