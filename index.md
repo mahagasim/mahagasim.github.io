@@ -1,94 +1,87 @@
 ---
 layout: default
 title: About
+description: Maha Gasim — researcher in causal inference, health data, applied microeconometrics, and reproducible computational research.
 ---
 
-# Maha Gasim
+<div class="hero">
+  <p class="eyebrow">Causal inference · Health data · Applied microeconometrics</p>
+  <h1>Maha Gasim</h1>
+  <p class="hero-lead">I am a researcher at the Department of Economics, Ca’ Foscari University of Venice, with a background in mathematics, computer science, and data analytics. My work focuses on credible causal analysis with observational health and policy data, with particular interests in ageing, family and social policy, synthetic and anonymized health data, and reproducible computational research.</p>
+  <div class="hero-links">
+    <a href="mailto:mahagasim@gmail.com">Email</a>
+    <a href="https://www.linkedin.com/in/maha-gasim-678975122">LinkedIn</a>
+    <a href="https://github.com/mahagasim">GitHub</a>
+  </div>
+</div>
 
-<p class="contact-line">Maha Gasim Omer Fdlalseed · Venice, Italy · <a href="mailto:mahagasim@gmail.com">mahagasim@gmail.com</a> · +39 379 216 3909 · <a href="https://www.linkedin.com/in/maha-gasim-678975122">LinkedIn</a> · <a href="https://github.com/mahagasim">GitHub</a></p>
+## Research focus
 
-<p class="lead">I am a data analyst and applied researcher with a background in Mathematics and Computer Science and an MSc in Data Analytics for Business and Society from Ca’ Foscari University of Venice. My research interests lie at the intersection of applied microeconomics, health economics, ageing, family economics, and causal inference.</p>
-
-I currently hold a research grant at the Department of Economics, Ca’ Foscari University of Venice, where I work with SHARE data, causal-inference methods, and long-term-care policy analysis.
-
-## Research Interests
-
-<ul class="two-column-list">
-  <li>Applied microeconomics</li>
-  <li>Microeconometrics and causal inference</li>
-  <li>Health economics</li>
-  <li>Economics of ageing</li>
-  <li>Family economics</li>
-  <li>Economics of human capital</li>
+<ul class="focus-grid">
+  <li>Causal inference with observational health data</li>
+  <li>Causal utility of synthetic and anonymized health data</li>
+  <li>Privacy–utility trade-offs</li>
+  <li>High-dimensional and Double Machine Learning methods</li>
+  <li>Applied microeconometrics and policy evaluation</li>
+  <li>Reproducible computational research</li>
 </ul>
+
+## Current research
+
+<div class="entry">
+  <h3>Research Grant Holder · Department of Economics</h3>
+  <p class="entry-meta">Ca’ Foscari University of Venice · January 2025–Present</p>
+  <p>I contribute to empirical projects on family policy, social policy, and later-life outcomes. My current work includes SHARE-based research on unilateral divorce laws and later-life cognition, an ongoing project on maternity-leave generosity and mental health, and comparative long-term-care policy research for the Gateway to Global Aging Data.</p>
+  <p><a class="text-link" href="research.html">More about my research →</a></p>
+</div>
+
+## Methods and data
+
+<div class="split-grid">
+  <div>
+    <h3>Causal and statistical methods</h3>
+    <p>G-computation; IPW and AIPW; cross-fitting and Double Machine Learning; regularized regression; panel data and fixed effects; instrumental variables; difference-in-differences and staggered adoption; regression discontinuity; synthetic control; wild cluster bootstrap inference.</p>
+  </div>
+  <div>
+    <h3>Data and programming</h3>
+    <p>Python, R, and Stata; BRFSS; SHARE; HRS-family harmonized ageing datasets; harmonized cross-country panel construction; policy variables coded from primary legal sources across languages.</p>
+  </div>
+</div>
 
 ## Education
 
 <div class="entry">
-  <h3>MSc in Data Analytics for Business and Society</h3>
-  <p class="entry-meta">Ca’ Foscari University of Venice · Venice, Italy · 2024</p>
-  <p>Thesis: <em>The Health Consequences of Family Dissolution Late in Life: Evidence from SHARE.</em><br>
-  Supervisors: Danilo Cavapozzi and Giacomo Pasini.</p>
+  <h3>MSc, Data Analytics for Business and Society</h3>
+  <p class="entry-meta">Ca’ Foscari University of Venice · 2022–2024</p>
+  <p><strong>Thesis:</strong> <em>The Health Consequences of Family Dissolution Late in Life: Evidence from SHARE.</em><br>Supervisors: Danilo Cavapozzi and Giacomo Pasini.</p>
 </div>
 
 <div class="entry">
-  <h3>BSc (Honours) in Mathematics and Computer Science</h3>
-  <p class="entry-meta">University of Khartoum · Khartoum, Sudan · 2021</p>
-  <p>Thesis: <em>Predicting Students’ Final Grades Using Naive Bayes.</em><br>
-  Supervisor: Mohammed Khalid Hassan Mohammed.</p>
+  <h3>BSc (Honours), Mathematics and Computer Science</h3>
+  <p class="entry-meta">University of Khartoum · 2012–2021</p>
+  <p><strong>Group thesis:</strong> <em>Predicting Students’ Final Grades Using Naive Bayes.</em><br>Supervisor: Mohammed Khalid.</p>
 </div>
 
-## Advanced Training
+## Advanced training
 
-<div class="entry">
-  <h3>Inequalities in Health and Healthcare</h3>
-  <p class="entry-meta">Tinbergen Institute Summer School · Online · July 2026</p>
-  <p>Inequality and inequity measurement, decomposition, normative evaluation, distributional cost-effectiveness analysis, and equity-sensitive population-health measurement. Instructors: Owen O’Donnell and Tom Van Ourti.</p>
+<div class="training-list">
+  <div class="training-item">
+    <h3>Inequalities in Health and Healthcare</h3>
+    <p class="entry-meta">Tinbergen Institute Summer School · July 2026</p>
+    <p>Inequality and inequity measurement, decomposition, and normative evaluation.</p>
+  </div>
+  <div class="training-item">
+    <h3>Causal Inference I</h3>
+    <p class="entry-meta">Mixtape Sessions · September–October 2025</p>
+    <p>Potential outcomes, randomisation inference, matching, instrumental variables, and regression discontinuity.</p>
+  </div>
+  <div class="training-item">
+    <h3>Panel Data for Causal Research Designs</h3>
+    <p class="entry-meta">SIdE and FBK-IRVAPP · June–July 2025</p>
+    <p>Fixed effects, difference-in-differences, staggered adoption, synthetic control, and regularised estimation for high-dimensional covariate selection.</p>
+  </div>
 </div>
-
-<div class="entry">
-  <h3>Causal Inference I</h3>
-  <p class="entry-meta">Mixtape Sessions · Online · September–October 2025</p>
-  <p>Design-based causal inference covering randomization inference, selection bias, matching, instrumental variables, and regression discontinuity. Instructor: Scott Cunningham, Baylor University.</p>
-</div>
-
-<div class="entry">
-  <h3>Panel Data for Causal Research Designs</h3>
-  <p class="entry-meta">Italian Econometric Association (SIdE) and FBK-IRVAPP · Bertinoro, Italy · June–July 2025</p>
-  <p>PhD-level training in fixed effects, difference-in-differences, staggered-treatment designs, and synthetic controls. Instructors: Erich Battistin, Enrico Rettore, Sergiu Burlacu, and Alessio Tomelleri.</p>
-</div>
-
-<div class="entry">
-  <h3>Google Data Analytics Professional Certificate</h3>
-  <p class="entry-meta">Google / Coursera · Online · May–August 2021</p>
-  <p>Eight-course certificate covering data cleaning, processing, visualization, R programming, spreadsheets, SQL, and analytical communication.</p>
-</div>
-
-## Technical Skills
-
-<ul class="skills-list">
-  <li><span class="label">Statistical tools:</span> Stata, R, Python</li>
-  <li><span class="label">Data visualization:</span> Microsoft Power BI, Google Looker, Qlik Sense</li>
-  <li><span class="label">Qualitative analysis:</span> Dedoose</li>
-</ul>
 
 ## Languages
 
-<ul class="skills-list">
-  <li><span class="label">Arabic:</span> Native</li>
-  <li><span class="label">English:</span> C1</li>
-  <li><span class="label">Italian:</span> A1</li>
-</ul>
-
-## Learning, encoded
-
-<div class="learning-visual">
-  <figure>
-    <img src="assets/images/learning-journey.svg" alt="Concentric rings containing the binary encoding of Learning is a continuous journey">
-  </figure>
-  <div class="learning-copy">
-    <p>I created this visual around a simple idea: learning is continuous. The expanding rings represent knowledge accumulating over time, while the binary reflects my background in mathematics and computer science.</p>
-    <p class="decoding-line"><code>01001100</code> = L &nbsp; <code>01000101</code> = E &nbsp; <code>01000001</code> = A &nbsp; …</p>
-    <p>The complete ASCII sequence decodes to <strong>LEARNING IS A CONTINUOUS JOURNEY.</strong></p>
-  </div>
-</div>
+Arabic (native) · English (C1) · Italian (A1)
