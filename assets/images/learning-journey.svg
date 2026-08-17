@@ -1,44 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 620" role="img" aria-labelledby="title desc">
   <title id="title">Learning is a continuous journey</title>
-  <desc id="desc">Four concentric rings carry the exact 8-bit ASCII binary encoding of LEARNING IS A CONTINUOUS JOURNEY., read from the outer ring inward. All binary digits are oriented upright.</desc>
-  <rect width="1000" height="1000" fill="#ffffff"/>
+  <desc id="desc">Concentric rings carry the verified 8-bit ASCII binary encoding of LEARNING IS A CONTINUOUS JOURNEY, matching the Canva design.</desc>
+  <rect width="620" height="620" fill="#ffffff"/>
 
   <defs>
-    <path id="o-top" d="M60,500 A440,440 0 0 1 940,500"/>
-    <path id="o-bottom" d="M60,500 A440,440 0 0 0 940,500"/>
-    <path id="r2-top" d="M170,500 A330,330 0 0 1 830,500"/>
-    <path id="r2-bottom" d="M170,500 A330,330 0 0 0 830,500"/>
-    <path id="r3-top" d="M280,500 A220,220 0 0 1 720,500"/>
-    <path id="r3-bottom" d="M280,500 A220,220 0 0 0 720,500"/>
-    <path id="i-top" d="M360,500 A140,140 0 0 1 640,500"/>
-    <path id="i-bottom" d="M360,500 A140,140 0 0 0 640,500"/>
+    <path id="r1" d="M310,54 a256,256 0 1,1 -0.1,0"/>
+    <path id="r2" d="M310,105 a205,205 0 1,1 -0.1,0"/>
+    <path id="r3" d="M310,157 a153,153 0 1,1 -0.1,0"/>
+    <path id="r4" d="M310,205 a105,105 0 1,1 -0.1,0"/>
+    <path id="r5" d="M310,246 a64,64 0 1,1 -0.1,0"/>
   </defs>
 
-  <g fill="none" stroke="#d9e0e5" stroke-width="2">
-    <circle cx="500" cy="500" r="440"/>
-    <circle cx="500" cy="500" r="330"/>
-    <circle cx="500" cy="500" r="220"/>
-    <circle cx="500" cy="500" r="140"/>
+  <g fill="none" stroke="#e4e8eb" stroke-width="1">
+    <circle cx="310" cy="310" r="256"/>
+    <circle cx="310" cy="310" r="205"/>
+    <circle cx="310" cy="310" r="153"/>
+    <circle cx="310" cy="310" r="105"/>
+    <circle cx="310" cy="310" r="64"/>
   </g>
 
-  <g font-family="SFMono-Regular,Consolas,Liberation Mono,monospace" fill="#17324d" text-anchor="middle" font-weight="600">
-    <!-- LEARNING + space: L E A R N / I N G [space] -->
-    <text font-size="21" letter-spacing="1.0"><textPath href="#o-top" startOffset="50%">01001100 01000101 01000001 01010010 01001110</textPath></text>
-    <text font-size="21" letter-spacing="1.0"><textPath href="#o-bottom" startOffset="50%">01001001 01001110 01000111 00100000</textPath></text>
-
-    <!-- IS A + space: I S [space] / A [space] -->
-    <text font-size="24" letter-spacing="1.2"><textPath href="#r2-top" startOffset="50%">01001001 01010011 00100000</textPath></text>
-    <text font-size="24" letter-spacing="1.2"><textPath href="#r2-bottom" startOffset="50%">01000001 00100000</textPath></text>
-
-    <!-- CONTINUOUS + space: C O N T I N / U O U S [space] -->
-    <text font-size="18" letter-spacing="0.6"><textPath href="#r3-top" startOffset="50%">01000011 01001111 01001110 01010100 01001001 01001110</textPath></text>
-    <text font-size="18" letter-spacing="0.6"><textPath href="#r3-bottom" startOffset="50%">01010101 01001111 01010101 01010011 00100000</textPath></text>
-
-    <!-- JOURNEY.: J O U R / N E Y . -->
-    <text font-size="17" letter-spacing="0.4"><textPath href="#i-top" startOffset="50%">01001010 01001111 01010101 01010010</textPath></text>
-    <text font-size="17" letter-spacing="0.4"><textPath href="#i-bottom" startOffset="50%">01001110 01000101 01011001 00101110</textPath></text>
+  <g font-family="SFMono-Regular,Consolas,Liberation Mono,monospace" fill="#18324a" text-anchor="start">
+    <text font-size="9.2" letter-spacing="0.1"><textPath href="#r1" startOffset="0" textLength="1608" lengthAdjust="spacingAndGlyphs">01001100 01000101 01000001 01010010 01001110 01001001 01001110 01000111 00100000 01001001 01010011 00100000 01000001 00100000 01000011 01001111 01001110 01010100 01001001 01001110 01010101 01001111 01010101 01010011 00100000 01001010 01001111 01010101 01010010 01001110 01000101 01011001</textPath></text>
+    <text font-size="8.2" opacity="0.84"><textPath href="#r2" startOffset="0" textLength="1288" lengthAdjust="spacingAndGlyphs">01001100 01000101 01000001 01010010 01001110 01001001 01001110 01000111 00100000 01001001 01010011 00100000 01000001 00100000 01000011 01001111 01001110 01010100 01001001 01001110 01010101 01001111 01010101 01010011 00100000 01001010 01001111 01010101 01010010 01001110 01000101 01011001</textPath></text>
+    <text font-size="7.2" opacity="0.68"><textPath href="#r3" startOffset="0" textLength="961" lengthAdjust="spacingAndGlyphs">01001100 01000101 01000001 01010010 01001110 01001001 01001110 01000111 00100000 01001001 01010011 00100000 01000001 00100000 01000011 01001111 01001110 01010100 01001001 01001110 01010101 01001111 01010101 01010011 00100000 01001010 01001111 01010101 01010010 01001110 01000101 01011001</textPath></text>
+    <text font-size="6.2" opacity="0.52"><textPath href="#r4" startOffset="0" textLength="659" lengthAdjust="spacingAndGlyphs">01001100 01000101 01000001 01010010 01001110 01001001 01001110 01000111 00100000 01001001 01010011 00100000 01000001 00100000 01000011 01001111 01001110 01010100 01001001 01001110 01010101 01001111 01010101 01010011 00100000 01001010 01001111 01010101 01010010 01001110 01000101 01011001</textPath></text>
+    <text font-size="5.2" opacity="0.38"><textPath href="#r5" startOffset="0" textLength="402" lengthAdjust="spacingAndGlyphs">01001100 01000101 01000001 01010010 01001110 01001001 01001110 01000111 00100000 01001001 01010011 00100000 01000001 00100000 01000011 01001111 01001110 01010100 01001001 01001110 01010101 01001111 01010101 01010011 00100000 01001010 01001111 01010101 01010010 01001110 01000101 01011001</textPath></text>
   </g>
 
-  <circle cx="500" cy="500" r="34" fill="none" stroke="#b59a62" stroke-width="3"/>
-  <circle cx="500" cy="500" r="7" fill="#b59a62"/>
+  <circle cx="310" cy="310" r="18" fill="none" stroke="#b59a62" stroke-width="1.5"/>
+  <circle cx="310" cy="310" r="3" fill="#b59a62"/>
 </svg>
