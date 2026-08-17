@@ -6,9 +6,10 @@
   <meta name="theme-color" content="#17324d">
   <meta name="description" content="{{ page.description | default: site.description | escape }}">
 
-  <!-- Use the original Learning is a Continuous Journey visual as the site icon -->
-  <link rel="icon" type="image/svg+xml" sizes="any" href="{{ '/assets/images/learning-journey.svg' | relative_url }}">
-  <link rel="shortcut icon" href="{{ '/assets/images/learning-journey.svg' | relative_url }}">
+  <!-- Use the exact Canva-exported Learning is a Continuous Journey artwork -->
+  <link rel="icon" type="image/png" href="{{ '/assets/images/learning-journey-canva.png' | relative_url }}">
+  <link rel="shortcut icon" type="image/png" href="{{ '/assets/images/learning-journey-canva.png' | relative_url }}">
+  <link rel="apple-touch-icon" href="{{ '/assets/images/learning-journey-canva.png' | relative_url }}">
 
   <title>{% if page.title and page.title != 'About' %}{{ page.title }} · {% endif %}Maha Gasim</title>
 
@@ -21,7 +22,7 @@
       <a class="brand" href="{{ '/' | relative_url }}" aria-label="Maha Gasim home">
         <img
           class="brand-mark"
-          src="{{ '/assets/images/learning-journey.svg' | relative_url }}"
+          src="{{ '/assets/images/learning-journey-canva.png' | relative_url }}"
           alt="Learning is a continuous journey — concentric binary rings">
         <span class="brand-text">Maha Gasim</span>
       </a>
