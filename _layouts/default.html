@@ -15,6 +15,7 @@
 
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/css/learning.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/analytics.css' | relative_url }}">
 </head>
 <body>
   <header class="site-header">
@@ -46,6 +47,9 @@
   <footer class="site-footer">
     <div class="footer-shell">
       <span>Maha Gasim · Venice, Italy</span>
+      <div class="footer-note">
+        <button class="analytics-preferences" id="analytics-preferences" type="button">Analytics preferences</button>
+      </div>
       <div class="footer-links">
         <a href="mailto:mahagasim@gmail.com">Email</a>
         <a href="https://www.linkedin.com/in/maha-gasim-678975122">LinkedIn</a>
@@ -53,5 +57,100 @@
       </div>
     </div>
   </footer>
+
+  <section
+    class="analytics-consent"
+    id="analytics-consent"
+    role="dialog"
+    aria-modal="false"
+    aria-labelledby="analytics-consent-title"
+    aria-describedby="analytics-consent-text"
+    hidden>
+    <p class="analytics-consent__title" id="analytics-consent-title">Optional website analytics</p>
+    <p class="analytics-consent__text" id="analytics-consent-text">
+      This site uses Google Analytics only if you allow it, to understand visits and improve the website. Analytics does not load before consent.
+    </p>
+    <div class="analytics-consent__actions">
+      <button class="analytics-consent__button" id="analytics-accept" type="button">Allow analytics</button>
+      <button class="analytics-consent__button analytics-consent__button--secondary" id="analytics-reject" type="button">No thanks</button>
+    </div>
+  </section>
+
+  <script>
+    (function () {
+      var measurementId = 'G-3TRSNXL6EE';
+      var storageKey = 'maha-gasim-analytics-consent';
+      var banner = document.getElementById('analytics-consent');
+      var acceptButton = document.getElementById('analytics-accept');
+      var rejectButton = document.getElementById('analytics-reject');
+      var preferencesButton = document.getElementById('analytics-preferences');
+      var analyticsLoaded = false;
+
+      function getConsent() {
+        try {
+          return window.localStorage.getItem(storageKey);
+        } catch (error) {
+          return null;
+        }
+      }
+
+      function setConsent(value) {
+        try {
+          window.localStorage.setItem(storageKey, value);
+        } catch (error) {
+          // If storage is unavailable, consent applies only to the current page.
+        }
+      }
+
+      function loadAnalytics() {
+        if (analyticsLoaded) return;
+        analyticsLoaded = true;
+
+        window.dataLayer = window.dataLayer || [];
+        window.gtag = window.gtag || function () {
+          window.dataLayer.push(arguments);
+        };
+
+        var script = document.createElement('script');
+        script.async = true;
+        script.src = 'https://www.googletagmanager.com/gtag/js?id=' + encodeURIComponent(measurementId);
+        document.head.appendChild(script);
+
+        window.gtag('js', new Date());
+        window.gtag('config', measurementId);
+      }
+
+      function openBanner() {
+        banner.hidden = false;
+        acceptButton.focus();
+      }
+
+      function closeBanner() {
+        banner.hidden = true;
+      }
+
+      acceptButton.addEventListener('click', function () {
+        setConsent('granted');
+        closeBanner();
+        loadAnalytics();
+      });
+
+      rejectButton.addEventListener('click', function () {
+        setConsent('denied');
+        closeBanner();
+      });
+
+      preferencesButton.addEventListener('click', function () {
+        openBanner();
+      });
+
+      var consent = getConsent();
+      if (consent === 'granted') {
+        loadAnalytics();
+      } else if (consent !== 'denied') {
+        openBanner();
+      }
+    }());
+  </script>
 </body>
 </html>
