@@ -461,15 +461,17 @@ h3 {
 .skills-list--academic li {
   width: 100%;
   margin: 0;
-  padding: 12px 0 13px;
+  padding: 11px 0 12px;
   border-bottom: 1px solid var(--rule);
-  line-height: 1.58;
+  color: var(--muted-dark);
+  font-size: 15px;
+  line-height: 1.55;
 }
 
 .label {
   color: var(--ink);
   font-family: var(--font-sans);
-  font-size: 15px;
+  font-size: 15.5px;
   font-weight: 600;
 }
 
