@@ -18,7 +18,6 @@ description: Research experience, work in progress, and policy publications by M
     <li>Contribute to two empirical projects on family policy, social policy, and later-life outcomes.</li>
     <li><strong>Unilateral divorce law and later-life cognition:</strong> verify national divorce legislation against primary sources across languages, code reform dates, build the cross-country SHARE panel, construct treatment and exposure variables, and estimate the main specifications.</li>
     <li>Stress-test the design against alternative legal codings, samples, fixed-effects structures, and inference procedures, and diagnose coding inconsistencies or implausible estimates before interpretation.</li>
-    <li><strong>Maternity-leave generosity and mental health:</strong> contribute to an ongoing empirical project with Agar Brugiavini.</li>
     <li>Prepare comparative long-term-care policy reports for the Gateway to Global Aging Data.</li>
   </ul>
 </div>
