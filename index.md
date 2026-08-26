@@ -83,21 +83,21 @@ description: About Maha Gasim — education, advanced training, research interes
   <div class="section-heading section-heading--compact">
     <div>
       <p class="section-kicker">Skills</p>
-      <h2>Quantitative toolkit</h2>
+      <h2>Research skills</h2>
     </div>
   </div>
 
   <div class="methods-band">
     <div>
-      <p class="section-kicker">Methods</p>
-      <h2>Causal inference &amp; microeconometrics</h2>
-      <p>Instrumental variables; difference-in-differences; fixed-effects and panel-data methods; regression discontinuity; synthetic control; IPW and AIPW; cross-fitting; regularized regression; machine learning; and bootstrap inference.</p>
+      <p class="section-kicker">Causal &amp; microeconometric methods</p>
+      <h2>Applied causal analysis</h2>
+      <p>Difference-in-differences and event studies; fixed-effects panel models; IV/2SLS and LATE; regression discontinuity; matching and propensity scores; synthetic control; and high-dimensional methods.</p>
     </div>
 
     <div>
-      <p class="section-kicker">Data &amp; programming</p>
-      <h2>Empirical research</h2>
-      <p>Stata, R, and Python; SHARE and harmonized HRS-family ageing datasets; longitudinal and cross-country panel construction; policy-data harmonization; and coding institutional information from primary legal sources.</p>
+      <p class="section-kicker">Health economics &amp; empirical research</p>
+      <h2>Distributional &amp; data analysis</h2>
+      <p>Health inequality and inequity measurement, standardisation and decomposition, equity–efficiency and financial-protection analysis; Stata, R and Python; SHARE and harmonized HRS-family data.</p>
     </div>
   </div>
 </section>
