@@ -35,8 +35,3 @@ description: Professional experience in data analytics, monitoring and evaluatio
     <li>Prepared management and performance information for programme planning.</li>
   </ul>
 </div>
-
-<div class="entry tools-entry">
-  <h3>Additional analytical tools</h3>
-  <p>Microsoft Power BI · Google Looker · Qlik Sense · Dedoose</p>
-</div>
