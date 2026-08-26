@@ -1,0 +1,141 @@
+/* Final academic refinements — layered over the base theme. */
+
+body {
+  font-size: 17px;
+}
+
+.site-nav {
+  gap: 24px;
+}
+
+.site-nav a {
+  font-size: 13px;
+}
+
+.page-intro {
+  max-width: 800px;
+}
+
+.page-intro + .contact-line {
+  margin-top: -32px;
+  margin-bottom: 0;
+}
+
+.contact-line a {
+  font-weight: 600;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(138, 63, 70, 0.28);
+}
+
+.contact-line a:hover {
+  border-bottom-color: var(--accent);
+}
+
+.interest-grid--three {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.interest-grid--three .interest-item,
+.interest-grid--three .interest-item:nth-child(odd),
+.interest-grid--three .interest-item:nth-child(even) {
+  padding: 24px 30px 26px 0;
+  border-right: 1px solid var(--line);
+}
+
+.interest-grid--three .interest-item:nth-child(2),
+.interest-grid--three .interest-item:nth-child(3) {
+  padding-left: 30px;
+}
+
+.interest-grid--three .interest-item:last-child {
+  border-right: 0;
+}
+
+.compact-detail {
+  margin: 6px 0 0;
+  color: #535b63;
+  font-size: 13.5px;
+  line-height: 1.62;
+}
+
+.compact-detail span {
+  display: inline-block;
+  min-width: 78px;
+  margin-right: 6px;
+  color: var(--heading);
+  font-weight: 650;
+}
+
+.skills-list--academic {
+  max-width: 880px;
+  border-top: 1px solid var(--line-strong);
+}
+
+.skills-list--academic li {
+  margin: 0;
+  padding: 12px 0 13px;
+  border-bottom: 1px solid var(--line);
+  line-height: 1.62;
+}
+
+.paper-entry {
+  max-width: 880px;
+}
+
+.paper-entry p:not(.entry-meta) {
+  max-width: 790px;
+  color: #4f575f;
+  font-size: 14.5px;
+  line-height: 1.72;
+}
+
+.presentation-entry {
+  max-width: 760px;
+}
+
+.tools-entry p {
+  margin: 0;
+  color: #535b63;
+  font-size: 14px;
+}
+
+.entry {
+  max-width: 840px;
+}
+
+.icon-section {
+  padding-bottom: 0;
+}
+
+@media (max-width: 900px) {
+  .site-nav {
+    gap: 16px;
+  }
+
+  .interest-grid--three {
+    grid-template-columns: 1fr;
+  }
+
+  .interest-grid--three .interest-item,
+  .interest-grid--three .interest-item:nth-child(odd),
+  .interest-grid--three .interest-item:nth-child(even) {
+    padding: 22px 0 23px;
+    border-right: 0;
+  }
+}
+
+@media (max-width: 680px) {
+  body {
+    font-size: 16px;
+  }
+
+  .page-intro + .contact-line {
+    margin-top: -24px;
+  }
+
+  .compact-detail span {
+    display: block;
+    min-width: 0;
+    margin: 0 0 2px;
+  }
+}
