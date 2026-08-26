@@ -96,10 +96,14 @@ description: About Maha Gasim — education, advanced training, research interes
 <p class="languages-line"><span>Languages</span> Arabic (native) · English (C1)</p>
 
 <section class="section-block">
-  <div class="section-heading section-heading--compact">
-    <div>
+  <div class="icon-story">
+    <div class="icon-story__mark">
+      <img src="{{ '/assets/images/learning-journey-canva.png' | relative_url }}" alt="Maha Gasim personal icon">
+    </div>
+    <div class="icon-story__copy">
+      <p class="icon-story__lead">A small visual signature</p>
       <h2>About the icon</h2>
+      <p>The circular mark is built around binary structure, linking the two starting points of my academic path: mathematics and computer science. I also see it as a compact metaphor for empirical research — structured information becomes data, data becomes evidence, and evidence helps answer questions about health, ageing, and policy. The circular form reflects continuity across that journey: the questions evolve, but the analytical thread remains.</p>
     </div>
   </div>
-  <p>The circular mark reflects my background in mathematics and computer science, using binary structure as a subtle reference to data, computation, and analytical thinking.</p>
 </section>
