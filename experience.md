@@ -6,8 +6,6 @@ description: Professional experience in data analytics, monitoring and evaluatio
 
 # Professional Experience
 
-<p class="page-intro">Alongside academic research, I have worked in data analytics, monitoring and evaluation, and programme management across humanitarian and international-development settings.</p>
-
 <div class="entry">
   <h3>Data Analytics Consultant</h3>
   <p class="entry-meta">Internews · Remote · 2023–2025</p>
