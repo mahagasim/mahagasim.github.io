@@ -83,23 +83,17 @@ description: About Maha Gasim — education, advanced training, research interes
   <div class="section-heading section-heading--compact">
     <div>
       <p class="section-kicker">Skills</p>
-      <h2>Research skills</h2>
+      <h2>Research &amp; technical skills</h2>
     </div>
   </div>
 
-  <div class="methods-band">
-    <div>
-      <p class="section-kicker">Causal &amp; microeconometric methods</p>
-      <h2>Applied causal analysis</h2>
-      <p>Difference-in-differences and event studies; fixed-effects panel models; IV/2SLS and LATE; regression discontinuity; matching and propensity scores; synthetic control; and high-dimensional methods.</p>
-    </div>
-
-    <div>
-      <p class="section-kicker">Health economics &amp; empirical research</p>
-      <h2>Distributional &amp; data analysis</h2>
-      <p>Health inequality and inequity measurement, standardisation and decomposition, equity–efficiency and financial-protection analysis; Stata, R and Python; SHARE and harmonized HRS-family data.</p>
-    </div>
-  </div>
+  <ul class="skills-list">
+    <li><span class="label">Causal &amp; econometric methods:</span> DiD and event studies; fixed effects; IV/2SLS and LATE; RDD; matching and propensity scores; synthetic control; high-dimensional methods.</li>
+    <li><span class="label">Health economics methods:</span> Measurement and evaluation of health inequality, inequity, and financial protection.</li>
+    <li><span class="label">Statistical &amp; programming tools:</span> Stata, R, Python.</li>
+    <li><span class="label">Data visualisation:</span> Microsoft Power BI, Google Looker, Qlik Sense.</li>
+    <li><span class="label">Qualitative analysis:</span> Dedoose.</li>
+  </ul>
 </section>
 
 <p class="languages-line"><span>Languages</span> Arabic (native) · English (C1)</p>
