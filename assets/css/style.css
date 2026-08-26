@@ -26,12 +26,12 @@
   --link-hover: #17384f;
 
   /* Layout */
-  --page-width: 1680px;
+  --page-width: 1560px;
   --reading-width: 1040px;
   --interior-width: 1320px;
   --section-space: 68px;
   --entry-space: 32px;
-  --side-gutter: 56px;
+  --side-gutter: 72px;
 }
 
 * {
