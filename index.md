@@ -95,7 +95,7 @@ description: About Maha Gasim — research interests, education, advanced traini
 <section class="section-block icon-section">
   <div class="icon-story">
     <div class="icon-story__mark">
-      <img src="{{ '/assets/images/mg-mark.svg' | relative_url }}" alt="Maha Gasim personal icon">
+      <img src="{{ '/assets/images/learning-journey-canva.png' | relative_url }}" alt="Maha Gasim personal icon">
     </div>
     <div class="icon-story__copy">
       <p class="icon-story__lead">A small visual signature</p>
