@@ -11,7 +11,6 @@ description: Maha Gasim — researcher in causal inference, health data, and app
   <div class="hero-links">
     <a href="mailto:mahagasim@gmail.com">Email</a>
     <a href="https://www.linkedin.com/in/maha-gasim-678975122">LinkedIn</a>
-    <a href="https://github.com/mahagasim">GitHub</a>
   </div>
 </div>
 
