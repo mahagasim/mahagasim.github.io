@@ -31,19 +31,16 @@ description: About Maha Gasim — education, advanced training, research interes
     <div class="compact-entry">
       <h3>Inequalities in Health and Healthcare</h3>
       <p class="entry-meta">Tinbergen Institute Summer School · July 2026</p>
-      <p>Inequality and inequity measurement, decomposition, and normative evaluation.</p>
     </div>
 
     <div class="compact-entry">
       <h3>Causal Inference I</h3>
       <p class="entry-meta">Mixtape Sessions · September–October 2025</p>
-      <p>Potential outcomes, randomisation inference, matching, instrumental variables, and regression discontinuity.</p>
     </div>
 
     <div class="compact-entry">
       <h3>Panel Data for Causal Research Designs</h3>
       <p class="entry-meta">SIdE and FBK-IRVAPP · June–July 2025</p>
-      <p>Fixed effects, difference-in-differences, staggered adoption, synthetic control, and regularised estimation.</p>
     </div>
   </div>
 </section>
