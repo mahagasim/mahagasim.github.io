@@ -8,7 +8,7 @@ description: About Maha Gasim — education, research interests, and quantitativ
 
 <p class="page-intro">I am a Research Grant Holder at the Department of Economics, Ca’ Foscari University of Venice. My academic background combines mathematics, computer science, and data analytics, and my interests centre on applied microeconomic questions in health, ageing, family and social policy.</p>
 
-<p class="entry-meta">Venice, Italy · <a href="mailto:mahagasim@gmail.com">Email</a> · <a href="https://www.linkedin.com/in/maha-gasim-678975122">LinkedIn</a></p>
+<p class="entry-meta"><a href="mailto:mahagasim@gmail.com">Email</a> · <a href="https://www.linkedin.com/in/maha-gasim-678975122">LinkedIn</a></p>
 
 ## Education
 
