@@ -12,8 +12,7 @@ description: About Maha Gasim — education, advanced training, research interes
 
 <section class="section-block two-panel-section">
   <div class="academic-panel">
-    <p class="section-kicker">Education</p>
-    <h2>Academic background</h2>
+    <h2>Education</h2>
 
     <div class="compact-entry">
       <h3>MSc, Data Analytics for Business and Society</h3>
@@ -27,8 +26,7 @@ description: About Maha Gasim — education, advanced training, research interes
   </div>
 
   <div class="academic-panel">
-    <p class="section-kicker">Advanced training</p>
-    <h2>Methods &amp; health economics</h2>
+    <h2>Advanced Courses</h2>
 
     <div class="compact-entry">
       <h3>Inequalities in Health and Healthcare</h3>
