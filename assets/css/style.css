@@ -28,8 +28,9 @@
   /* Layout */
   --page-width: 1680px;
   --reading-width: 1040px;
+  --interior-width: 1320px;
   --section-space: 68px;
-  --entry-space: 28px;
+  --entry-space: 32px;
   --side-gutter: 56px;
 }
 
@@ -332,9 +333,9 @@ h3 {
 }
 
 .content > h2 {
-  width: 100%;
-  margin: 66px 0 24px;
-  padding-top: 52px;
+  width: min(100%, var(--interior-width));
+  margin: 62px 0 26px;
+  padding-top: 46px;
   border-top: 1px solid var(--rule);
   font-size: var(--h2-size);
 }
@@ -555,10 +556,10 @@ h3 {
 .presentation-entry,
 .feature-entry,
 .project-entry {
-  width: 100%;
-  max-width: none;
+  width: min(100%, var(--interior-width));
+  max-width: var(--interior-width);
   margin: 0 0 var(--entry-space);
-  padding: 0 0 25px;
+  padding: 0 0 28px;
   border-bottom: 1px solid var(--rule);
   background: transparent;
   border-radius: 0;
@@ -570,8 +571,10 @@ h3 {
 
 .entry p,
 .paper-entry p,
-.presentation-entry p {
-  max-width: var(--reading-width);
+.presentation-entry p,
+.feature-entry p {
+  width: 100%;
+  max-width: none;
 }
 
 .entry p:last-child,
@@ -581,8 +584,11 @@ h3 {
   margin-bottom: 0;
 }
 
-.entry ul {
-  max-width: 1160px;
+.entry ul,
+.paper-entry ul,
+.feature-entry ul {
+  width: 100%;
+  max-width: none;
 }
 
 .feature-entry h3,
@@ -596,7 +602,8 @@ h3 {
 }
 
 .paper-entry p:not(.entry-meta) {
-  max-width: var(--reading-width);
+  width: 100%;
+  max-width: none;
   color: var(--ink);
   font-size: var(--text-size);
   line-height: var(--text-leading);
@@ -608,8 +615,8 @@ h3 {
 
 .research-list,
 .training-list {
-  width: 100%;
-  max-width: none;
+  width: min(100%, var(--interior-width));
+  max-width: var(--interior-width);
   border-top: 1px solid var(--rule);
 }
 
@@ -634,7 +641,7 @@ h3 {
 }
 
 .research-card p {
-  max-width: var(--reading-width);
+  max-width: none;
   margin-bottom: 4px;
   color: var(--muted-dark);
   font-size: 15.5px;
@@ -995,8 +1002,20 @@ img {
   }
 
   .content > h2 {
+    width: 100%;
     margin-top: 56px;
     padding-top: 45px;
+  }
+
+  .entry,
+  .paper-entry,
+  .presentation-entry,
+  .feature-entry,
+  .project-entry,
+  .research-list,
+  .training-list {
+    width: 100%;
+    max-width: none;
   }
 
   .interest-grid,
