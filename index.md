@@ -41,7 +41,7 @@ description: About Maha Gasim — research interests, education, advanced traini
 
     <div class="compact-entry">
       <h3>MSc, Data Analytics for Business and Society</h3>
-      <p class="entry-meta">Ca’ Foscari University of Venice · 2022–2024 · Final grade: 109/110</p>
+      <p class="entry-meta">Ca’ Foscari University of Venice · 2022–2024</p>
       <div class="compact-detail"><span>Thesis</span><div><em>The Health Consequences of Family Dissolution Late in Life: Evidence from SHARE</em></div></div>
       <div class="compact-detail"><span>Supervisors</span><div>Danilo Cavapozzi and Giacomo Pasini</div></div>
     </div>
