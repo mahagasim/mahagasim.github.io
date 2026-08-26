@@ -9,7 +9,7 @@ description: Research positions, research in progress, and policy data products 
 ## Research positions
 
 <div class="entry">
-  <h3>Research Grant Holder · Department of Economics</h3>
+  <h3>Research Fellow · Department of Economics</h3>
   <p class="entry-meta">Ca’ Foscari University of Venice · January 2025–Present</p>
   <p>Supervisors: Agar Brugiavini and Giacomo Pasini.</p>
   <ul>
