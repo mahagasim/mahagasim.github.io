@@ -8,7 +8,7 @@ description: About Maha Gasim — research interests, education, advanced traini
 
 <p class="page-intro">I am a Research Grant Holder in the Department of Economics at Ca’ Foscari University of Venice. I study how institutions and policy shape health and wellbeing across the life course, with a focus on ageing, family and social policy, and long-term care. My academic path from mathematics and computer science to data analytics and empirical economics informs how I approach measurement, identification, and reproducible research.</p>
 
-<p class="entry-meta contact-line"><a href="mailto:mahagasim@gmail.com">Email</a> · <a href="https://www.linkedin.com/in/maha-gasim-678975122">LinkedIn</a> · <a href="{{ '/assets/cv/Maha_Gasim_CV_2026.pdf' | relative_url }}" target="_blank" rel="noopener">CV (PDF)</a></p>
+<p class="entry-meta contact-line"><a href="mailto:mahagasim@gmail.com">Email</a> · <a href="https://www.linkedin.com/in/maha-gasim-678975122">LinkedIn</a> · <a href="https://orcid.org/0000-0002-0859-2915" target="_blank" rel="noopener">ORCID</a></p>
 
 <section class="section-block">
   <div class="section-heading section-heading--compact">
