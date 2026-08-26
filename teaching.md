@@ -6,8 +6,6 @@ description: Teaching experience in econometrics, Stata, and harmonized ageing d
 
 # Teaching
 
-<p class="page-intro">My teaching focuses on applied econometrics, Stata, and hands-on work with harmonized longitudinal ageing data.</p>
-
 <div class="entry">
   <h3>Teaching Assistant · Introduction to Econometrics</h3>
   <p class="entry-meta">BA in Economics and Business · Ca’ Foscari University of Venice · 2025–2026</p>
