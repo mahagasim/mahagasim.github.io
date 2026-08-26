@@ -54,3 +54,5 @@ description: Research experience, work in progress, and policy publications by M
   <p>Tang, H., Lee, Y., Gasim, M., &amp; Knapp, D. Gateway to Global Aging Data, University of Southern California.</p>
   <p class="entry-meta">Under review.</p>
 </div>
+
+<!-- refreshed after navigation update: 2026-08-26 -->
