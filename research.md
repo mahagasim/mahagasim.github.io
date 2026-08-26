@@ -6,8 +6,6 @@ description: Research experience, work in progress, and policy publications by M
 
 # Research
 
-<p class="page-intro">My research sits at the intersection of causal inference, health data, applied microeconometrics, and policy evaluation. I work with harmonized longitudinal data and policy variation, with particular attention to research design, treatment coding, robustness, inference, and reproducibility.</p>
-
 ## Current research position
 
 <div class="entry">
