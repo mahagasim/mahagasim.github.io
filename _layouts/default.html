@@ -9,14 +9,15 @@
   <meta http-equiv="Pragma" content="no-cache">
   <meta http-equiv="Expires" content="0">
 
-  <link rel="icon" type="image/png" href="{{ '/assets/images/learning-journey-canva.png' | relative_url }}">
-  <link rel="shortcut icon" type="image/png" href="{{ '/assets/images/learning-journey-canva.png' | relative_url }}">
-  <link rel="apple-touch-icon" href="{{ '/assets/images/learning-journey-canva.png' | relative_url }}">
+  <link rel="icon" type="image/svg+xml" href="{{ '/assets/images/mg-mark.svg' | relative_url }}">
+  <link rel="shortcut icon" href="{{ '/assets/images/mg-mark.svg' | relative_url }}">
+  <link rel="apple-touch-icon" href="{{ '/assets/images/mg-mark.svg' | relative_url }}">
 
   <title>{% if page.title and page.title != 'About' %}{{ page.title }} · {% endif %}Maha Gasim</title>
 
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}?v=20260826-1022">
   <link rel="stylesheet" href="{{ '/assets/css/about.css' | relative_url }}?v=20260826-1055">
+  <link rel="stylesheet" href="{{ '/assets/css/refinements.css' | relative_url }}?v=20260826-1102">
   <link rel="stylesheet" href="{{ '/assets/css/analytics.css' | relative_url }}">
 </head>
 <body>
@@ -25,7 +26,7 @@
       <a class="brand" href="{{ '/' | relative_url }}" aria-label="Maha Gasim home">
         <img
           class="brand-mark"
-          src="{{ '/assets/images/learning-journey-canva.png' | relative_url }}"
+          src="{{ '/assets/images/mg-mark.svg' | relative_url }}"
           alt="">
         <span class="brand-text">Maha Gasim</span>
       </a>
@@ -35,6 +36,7 @@
         <a href="{{ '/research.html' | relative_url }}"{% if page.title == 'Research' %} class="active"{% endif %}>Research</a>
         <a href="{{ '/teaching.html' | relative_url }}"{% if page.title == 'Teaching' %} class="active"{% endif %}>Teaching</a>
         <a href="{{ '/experience.html' | relative_url }}"{% if page.title == 'Professional Experience' %} class="active"{% endif %}>Professional Experience</a>
+        <a href="{{ '/assets/cv/Maha_Gasim_CV_2026.pdf' | relative_url }}" target="_blank" rel="noopener">CV</a>
       </nav>
     </div>
   </header>
@@ -57,6 +59,7 @@
       <div class="footer-links">
         <a href="mailto:mahagasim@gmail.com">Email</a>
         <a href="https://www.linkedin.com/in/maha-gasim-678975122">LinkedIn</a>
+        <a href="{{ '/assets/cv/Maha_Gasim_CV_2026.pdf' | relative_url }}" target="_blank" rel="noopener">CV</a>
       </div>
     </div>
   </footer>
