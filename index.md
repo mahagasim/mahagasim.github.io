@@ -1,42 +1,36 @@
 ---
 layout: default
 title: About
-description: About Maha Gasim — education, advanced training, research interests, and quantitative skills.
+description: About Maha Gasim — research interests, education, advanced training, and research skills.
 ---
 
 # Maha Gasim
 
-<p class="page-intro">I am a Research Grant Holder at the Department of Economics, Ca’ Foscari University of Venice. My academic background combines mathematics, computer science, and data analytics, and my interests centre on applied microeconomic questions in health, ageing, family and social policy.</p>
+<p class="page-intro">I am a Research Grant Holder in the Department of Economics at Ca’ Foscari University of Venice. I study how institutions and policy shape health and wellbeing across the life course, with a focus on ageing, family and social policy, and long-term care. My academic path from mathematics and computer science to data analytics and empirical economics informs how I approach measurement, identification, and reproducible research.</p>
 
-<p class="entry-meta"><a href="mailto:mahagasim@gmail.com">Email</a> · <a href="https://www.linkedin.com/in/maha-gasim-678975122">LinkedIn</a></p>
+<p class="entry-meta contact-line"><a href="mailto:mahagasim@gmail.com">Email</a> · <a href="https://www.linkedin.com/in/maha-gasim-678975122">LinkedIn</a> · <a href="{{ '/assets/cv/Maha_Gasim_CV_2026.pdf' | relative_url }}" target="_blank" rel="noopener">CV (PDF)</a></p>
 
 <section class="section-block">
   <div class="section-heading section-heading--compact">
     <div>
-      <p class="section-kicker">Interests</p>
       <h2>Research interests</h2>
     </div>
   </div>
 
-  <div class="interest-grid">
+  <div class="interest-grid interest-grid--three">
     <div class="interest-item">
       <h3>Health economics &amp; ageing</h3>
-      <p>Health and wellbeing across the life course, later-life health and cognition, and the economics of population ageing.</p>
+      <p>Later-life health, cognition, functional outcomes, and how earlier-life institutional environments shape ageing trajectories.</p>
     </div>
 
     <div class="interest-item">
       <h3>Family &amp; social policy</h3>
-      <p>How family environments, social institutions, and policy reforms shape individual outcomes over time.</p>
+      <p>How family environments, legal institutions, and social-policy reforms affect health and wellbeing over the life course.</p>
     </div>
 
     <div class="interest-item">
       <h3>Long-term care</h3>
-      <p>Eligibility, benefits, service provision, and cross-country institutional differences in long-term-care systems.</p>
-    </div>
-
-    <div class="interest-item">
-      <h3>Policy evaluation</h3>
-      <p>Empirical evaluation of policy changes using longitudinal data, institutional variation, and credible identification strategies.</p>
+      <p>Eligibility rules, benefit design, service provision, and cross-country institutional differences in long-term-care systems.</p>
     </div>
   </div>
 </section>
@@ -47,12 +41,16 @@ description: About Maha Gasim — education, advanced training, research interes
 
     <div class="compact-entry">
       <h3>MSc, Data Analytics for Business and Society</h3>
-      <p class="entry-meta">Ca’ Foscari University of Venice · 2022–2024</p>
+      <p class="entry-meta">Ca’ Foscari University of Venice · 2022–2024 · Final grade: 109/110</p>
+      <p class="compact-detail"><span>Thesis</span> <em>The Health Consequences of Family Dissolution Late in Life: Evidence from SHARE</em></p>
+      <p class="compact-detail"><span>Supervisors</span> Danilo Cavapozzi and Giacomo Pasini</p>
     </div>
 
     <div class="compact-entry">
       <h3>BSc (Honours), Mathematics and Computer Science</h3>
       <p class="entry-meta">University of Khartoum · 2012–2021</p>
+      <p class="compact-detail"><span>Thesis</span> <em>Predicting Student’s Final Grade Using Naive Bayes</em> (joint project, 2020)</p>
+      <p class="compact-detail"><span>Supervisor</span> Mohammed Khalid Hassan Mohammed</p>
     </div>
   </div>
 
@@ -79,31 +77,29 @@ description: About Maha Gasim — education, advanced training, research interes
 <section class="section-block">
   <div class="section-heading section-heading--compact">
     <div>
-      <p class="section-kicker">Skills</p>
-      <h2>Research &amp; technical skills</h2>
+      <h2>Research skills</h2>
     </div>
   </div>
 
-  <ul class="skills-list">
-    <li><span class="label">Causal &amp; econometric methods:</span> DiD and event studies; fixed effects; IV/2SLS and LATE; RDD; matching and propensity scores; synthetic control; high-dimensional methods.</li>
+  <ul class="skills-list skills-list--academic">
+    <li><span class="label">Econometric methods:</span> DiD and event studies; fixed effects; IV/2SLS and LATE; RDD; matching and propensity scores; synthetic control; high-dimensional methods; wild-cluster bootstrap inference.</li>
     <li><span class="label">Health economics methods:</span> Measurement and evaluation of health inequality, inequity, and financial protection.</li>
-    <li><span class="label">Statistical &amp; programming tools:</span> Stata, R, Python.</li>
-    <li><span class="label">Data visualisation:</span> Microsoft Power BI, Google Looker, Qlik Sense.</li>
-    <li><span class="label">Qualitative analysis:</span> Dedoose.</li>
+    <li><span class="label">Data:</span> SHARE; harmonized HRS-family studies; longitudinal cross-country panels; national legal and policy sources.</li>
+    <li><span class="label">Software &amp; workflows:</span> Stata, R, Python; Git; LaTeX; reproducible project-based code.</li>
   </ul>
 </section>
 
-<p class="languages-line"><span>Languages</span> Arabic (native) · English (C1)</p>
+<p class="languages-line"><span>Languages</span> Arabic (native) · English (C1) · Italian (A1)</p>
 
-<section class="section-block">
+<section class="section-block icon-section">
   <div class="icon-story">
     <div class="icon-story__mark">
-      <img src="{{ '/assets/images/learning-journey-canva.png' | relative_url }}" alt="Maha Gasim personal icon">
+      <img src="{{ '/assets/images/mg-mark.svg' | relative_url }}" alt="Maha Gasim personal icon">
     </div>
     <div class="icon-story__copy">
       <p class="icon-story__lead">A small visual signature</p>
       <h2>About the icon</h2>
-      <p>The circular mark is built around binary structure, linking the two starting points of my academic path: mathematics and computer science. I also see it as a compact metaphor for empirical research — structured information becomes data, data becomes evidence, and evidence helps answer questions about health, ageing, and policy. The circular form reflects continuity across that journey: the questions evolve, but the analytical thread remains.</p>
+      <p>The rings encode the phrase <em>“Learning is a continuous journey”</em> in 8-bit ASCII. I chose it as a quiet reference to my first degree in mathematics and computer science and to the way my work has evolved—from prediction and data analysis toward causal questions in health and ageing. The mark stays deliberately small: methods change, questions deepen, and learning remains continuous.</p>
     </div>
   </div>
 </section>
