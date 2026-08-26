@@ -94,3 +94,12 @@ description: About Maha Gasim — education, advanced training, research interes
 </section>
 
 <p class="languages-line"><span>Languages</span> Arabic (native) · English (C1)</p>
+
+<section class="section-block">
+  <div class="section-heading section-heading--compact">
+    <div>
+      <h2>About the icon</h2>
+    </div>
+  </div>
+  <p>The circular mark reflects my background in mathematics and computer science, using binary structure as a subtle reference to data, computation, and analytical thinking.</p>
+</section>
