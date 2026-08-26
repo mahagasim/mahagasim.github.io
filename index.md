@@ -86,6 +86,7 @@ description: About Maha Gasim — research interests, education, advanced traini
     <li><span class="label">Health economics methods:</span> Measurement and evaluation of health inequality, inequity, and financial protection.</li>
     <li><span class="label">Data:</span> SHARE; harmonized HRS-family studies; longitudinal cross-country panels; national legal and policy sources.</li>
     <li><span class="label">Software &amp; workflows:</span> Stata, R, Python; Git; LaTeX; reproducible project-based code.</li>
+    <li><span class="label">Additional analytical tools:</span> Microsoft Power BI · Google Looker · Qlik Sense · Dedoose</li>
   </ul>
 </section>
 
