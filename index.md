@@ -76,3 +76,5 @@ Arabic (native) · English (C1)
     <p>The circular mark beside my name is built from concentric rings carrying the ASCII binary encoding of <strong>“LEARNING IS A CONTINUOUS JOURNEY”</strong>. The visual connects my background in mathematics and computer science with a principle that has shaped how I approach research, teaching, and professional development: learning does not end with a degree or a particular stage of a career.</p>
   </div>
 </div>
+
+<!-- refreshed after navigation update: 2026-08-26 -->
