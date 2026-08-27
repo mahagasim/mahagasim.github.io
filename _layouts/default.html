@@ -29,6 +29,12 @@
       --rule-strong: #D8D0C6;
       --link: #35586A;
       --link-hover: #23485A;
+      --sage: #687C70;
+      --sage-dark: #53685D;
+      --clay: #956F60;
+      --soft-sage: #F0F3EF;
+      --soft-blue: #F1F4F5;
+      --soft-warm: #F6F1EB;
     }
 
     ::selection {
@@ -38,6 +44,49 @@
 
     code {
       background: #F2EEE9;
+    }
+
+    .site-nav a.active {
+      color: var(--link);
+      border-bottom-color: var(--sage);
+    }
+
+    .site-nav a:hover {
+      color: var(--link-hover);
+      border-bottom-color: var(--sage);
+    }
+
+    .section-heading h2,
+    .section-heading--compact h2,
+    .academic-panel h2,
+    .content > h2 {
+      color: var(--sage-dark);
+    }
+
+    .interest-item h3,
+    .entry h3,
+    .paper-entry h3,
+    .feature-entry h3 {
+      color: var(--link);
+    }
+
+    .compact-detail span,
+    .label,
+    .languages-line span {
+      color: var(--sage-dark);
+    }
+
+    .contact-line a,
+    .entry-meta a {
+      color: var(--link);
+    }
+
+    .icon-story__lead {
+      color: var(--clay);
+    }
+
+    .site-footer {
+      background: var(--soft-warm);
     }
   </style>
 </head>
