@@ -27,13 +27,15 @@
       --muted-dark: #58524C;
       --rule: #E7E1D9;
       --rule-strong: #D9D1C7;
+
+      --gold: #A27A2B;
+      --gold-dark: #7C5A16;
+      --gold-soft: #F3E8C8;
+      --gold-wash: #F8F2E3;
+
       --link: #4E6877;
       --link-hover: #3E5967;
-      --accent: #667A70;
-      --accent-blue: #4E6877;
-      --accent-warm: #9A7A68;
-      --soft-sage: #F3F5F2;
-      --soft-blue: #F3F6F8;
+      --clay: #8F6B5C;
       --soft-warm: #F7F1EB;
     }
 
@@ -44,7 +46,7 @@
     }
 
     ::selection {
-      background: #F0EAE3;
+      background: var(--gold-soft);
       color: var(--ink);
     }
 
@@ -52,59 +54,85 @@
       background: #F3EFE9;
     }
 
+    .site-header {
+      border-top: 3px solid var(--gold);
+    }
+
     .site-nav a {
       color: var(--muted-dark);
     }
 
     .site-nav a:hover {
-      color: var(--accent-blue);
-      border-bottom-color: var(--accent);
+      color: var(--link-hover);
+      border-bottom-color: var(--gold);
     }
 
     .site-nav a.active {
-      color: var(--ink);
-      border-bottom-color: var(--accent);
+      color: var(--gold-dark);
+      border-bottom-color: var(--gold);
     }
 
     .section-heading h2,
     .section-heading--compact h2,
     .academic-panel h2,
     .content > h2 {
-      color: var(--accent);
+      color: var(--gold-dark);
     }
 
-    .interest-item h3,
+    .interest-item h3 {
+      color: var(--gold-dark);
+    }
+
     .entry h3,
     .paper-entry h3,
     .feature-entry h3 {
-      color: var(--accent);
+      color: var(--link);
     }
 
     .compact-detail span,
     .label,
     .languages-line span {
-      color: var(--muted-dark);
+      color: var(--gold-dark);
     }
 
     .entry-meta a,
     .contact-line a {
-      color: var(--accent-blue);
+      color: var(--link);
     }
 
     .icon-story__lead {
-      color: var(--accent-warm);
+      color: var(--clay);
+    }
+
+    .content li::marker {
+      color: var(--gold);
+    }
+
+    .interest-grid,
+    .interest-grid--three {
+      border-top-color: var(--gold-soft);
+      border-bottom-color: var(--gold-soft);
+    }
+
+    .compact-entry,
+    .skills-list li,
+    .entry,
+    .paper-entry,
+    .feature-entry {
+      border-color: var(--rule);
     }
 
     .site-footer {
-      background: var(--soft-warm);
+      background: var(--gold-wash);
+      border-top-color: var(--gold-soft);
     }
 
     .footer-identity strong {
-      color: var(--ink);
+      color: var(--gold-dark);
     }
 
     .footer-links a {
-      color: var(--accent-blue);
+      color: var(--link);
     }
   </style>
 </head>
