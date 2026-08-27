@@ -113,35 +113,39 @@
       background: var(--gold);
     }
 
-    /* Subtitles stay calm and readable. */
+    /* Subtitles stay calm and readable, with the same type treatment everywhere. */
     .interest-item h3,
     .entry h3,
     .paper-entry h3,
     .feature-entry h3,
     .compact-entry h3 {
       color: var(--muted-dark);
+      font-family: var(--font-serif);
+      font-size: var(--h3-size);
+      font-weight: 600;
+      line-height: 1.38;
     }
 
-    /* Research-interest columns get tiny accent marks, not competing title colours. */
+    .interest-item p {
+      color: var(--muted-dark);
+      font-size: 16px;
+      line-height: 1.62;
+    }
+
+    /* Research-interest accents now use one consistent gold signature. */
     .interest-item {
       position: relative;
     }
 
-    .interest-item::before {
+    .interest-item::before,
+    .interest-item:nth-child(2)::before,
+    .interest-item:nth-child(3)::before {
       content: "";
       display: block;
       width: 24px;
       height: 2px;
       margin-bottom: 12px;
       background: var(--gold);
-    }
-
-    .interest-item:nth-child(2)::before {
-      background: var(--blue);
-    }
-
-    .interest-item:nth-child(3)::before {
-      background: var(--heading);
     }
 
     .compact-detail span,
@@ -205,14 +209,41 @@
       color: var(--heading-deep);
     }
 
-    /* A warm ending, still much brighter than the previous footer. */
+    /* A bright, compact signature footer. */
     .site-footer {
       background: var(--gold-wash);
       border-top-color: var(--gold-soft);
     }
 
+    .footer-shell {
+      min-height: 76px;
+    }
+
+    .footer-identity {
+      display: flex;
+      flex-direction: row;
+      align-items: baseline;
+      gap: 8px;
+      white-space: nowrap;
+    }
+
     .footer-identity strong {
       color: var(--heading-deep);
+      font-family: var(--font-serif);
+      font-size: 15px;
+      font-weight: 600;
+    }
+
+    .footer-identity span:not(.footer-separator) {
+      color: var(--muted);
+      font-family: var(--font-sans);
+      font-size: 13.5px;
+    }
+
+    .footer-separator {
+      color: var(--gold);
+      font-family: var(--font-sans);
+      font-size: 13px;
     }
 
     .analytics-consent {
@@ -245,6 +276,12 @@
       .content--research .feature-entry {
         padding-left: 16px;
       }
+
+      .footer-identity {
+        flex-wrap: wrap;
+        gap: 5px 7px;
+        white-space: normal;
+      }
     }
   </style>
 </head>
@@ -276,9 +313,12 @@
 
   <footer class="site-footer">
     <div class="footer-shell">
-      <div class="footer-identity">
+      <div class="footer-identity" aria-label="Maha Gasim, Venice, Italy, 2026">
         <strong>Maha Gasim</strong>
+        <span class="footer-separator" aria-hidden="true">·</span>
         <span>Venice, Italy</span>
+        <span class="footer-separator" aria-hidden="true">·</span>
+        <span>2026</span>
       </div>
       <div class="footer-note">
         <button class="analytics-preferences" id="analytics-preferences" type="button">Analytics preferences</button>
