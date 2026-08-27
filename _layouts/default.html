@@ -32,9 +32,12 @@
       --sage: #687C70;
       --sage-dark: #53685D;
       --clay: #956F60;
+      --plum: #786775;
+      --ochre: #947A53;
       --soft-sage: #F0F3EF;
       --soft-blue: #F1F4F5;
       --soft-warm: #F6F1EB;
+      --soft-plum: #F4F0F3;
     }
 
     ::selection {
@@ -56,6 +59,26 @@
       border-bottom-color: var(--sage);
     }
 
+    .site-nav a:nth-child(1).active {
+      color: var(--sage-dark);
+      border-bottom-color: var(--sage);
+    }
+
+    .site-nav a:nth-child(2).active {
+      color: var(--link);
+      border-bottom-color: var(--link);
+    }
+
+    .site-nav a:nth-child(3).active {
+      color: var(--clay);
+      border-bottom-color: var(--clay);
+    }
+
+    .site-nav a:nth-child(4).active {
+      color: var(--plum);
+      border-bottom-color: var(--plum);
+    }
+
     .section-heading h2,
     .section-heading--compact h2,
     .academic-panel h2,
@@ -63,11 +86,65 @@
       color: var(--sage-dark);
     }
 
+    .content--about > h1:first-of-type,
+    .content--about .section-heading h2,
+    .content--about .section-heading--compact h2,
+    .content--about .academic-panel h2 {
+      color: var(--sage-dark);
+    }
+
+    .content--research > h1:first-of-type,
+    .content--research > h2 {
+      color: var(--link);
+    }
+
+    .content--teaching > h1:first-of-type,
+    .content--teaching > h2 {
+      color: var(--clay);
+    }
+
+    .content--professional-experience > h1:first-of-type,
+    .content--professional-experience > h2 {
+      color: var(--plum);
+    }
+
     .interest-item h3,
     .entry h3,
     .paper-entry h3,
     .feature-entry h3 {
       color: var(--link);
+    }
+
+    .content--about .interest-item:nth-child(1) h3 {
+      color: var(--sage-dark);
+    }
+
+    .content--about .interest-item:nth-child(2) h3 {
+      color: var(--link);
+    }
+
+    .content--about .interest-item:nth-child(3) h3 {
+      color: var(--clay);
+    }
+
+    .content--teaching .entry h3 {
+      color: var(--clay);
+    }
+
+    .content--professional-experience .entry h3 {
+      color: var(--plum);
+    }
+
+    .content--research li::marker {
+      color: var(--link);
+    }
+
+    .content--teaching li::marker {
+      color: var(--clay);
+    }
+
+    .content--professional-experience li::marker {
+      color: var(--plum);
     }
 
     .compact-detail span,
@@ -83,6 +160,10 @@
 
     .icon-story__lead {
       color: var(--clay);
+    }
+
+    .footer-identity strong {
+      color: var(--ochre);
     }
 
     .site-footer {
