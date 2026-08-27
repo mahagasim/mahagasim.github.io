@@ -18,30 +18,29 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}?v=20260826-1208">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}?v=20260827-1054">
   <style>
     :root {
       --page: #FDFCFB;
-      --ink: #211F1C;
-      --muted: #746E67;
-      --muted-dark: #58524C;
-      --rule: #E7E1D9;
-      --rule-strong: #D9D1C7;
+      --ink: #292724;
+      --muted: #706B64;
+      --muted-dark: #4A4641;
+      --rule: #E8E2D9;
+      --rule-strong: #D8D0C5;
 
-      --gold: #A27A2B;
-      --gold-dark: #7C5A16;
-      --gold-soft: #F3E8C8;
-      --gold-wash: #F8F2E3;
+      --heading: #3F5651;
+      --heading-deep: #334943;
+      --gold: #A9822D;
+      --gold-dark: #80611F;
+      --gold-soft: #F4EACF;
+      --gold-wash: #FBF7EC;
+      --blue: #496878;
+      --blue-hover: #355868;
+      --clay: #956F60;
 
-      --about-accent: #50685D;
-      --research-accent: #456477;
-      --teaching-accent: #8B604C;
-      --experience-accent: #6F5A6A;
-
-      --link: #4E6877;
-      --link-hover: #3E5967;
-      --clay: #8F6B5C;
-      --soft-warm: #F7F1EB;
+      --soft-sage: #F5F7F4;
+      --soft-blue: #F5F7F8;
+      --soft-warm: #FAF6EE;
     }
 
     html,
@@ -56,11 +55,17 @@
     }
 
     code {
-      background: #F3EFE9;
+      background: #F4F1EC;
     }
 
+    /* A thin gold thread gives the whole site one visual signature. */
     .site-header {
-      border-top: 3px solid var(--gold);
+      border-top: 2px solid var(--gold);
+      background: rgba(253, 252, 251, 0.96);
+    }
+
+    .brand {
+      color: var(--heading-deep);
     }
 
     .site-nav a {
@@ -68,62 +73,75 @@
     }
 
     .site-nav a:hover {
-      color: var(--link-hover);
+      color: var(--heading);
       border-bottom-color: var(--gold);
     }
 
-    .site-nav a:nth-child(1).active {
-      color: var(--about-accent);
-      border-bottom-color: var(--about-accent);
+    .site-nav a.active {
+      color: var(--heading-deep);
+      border-bottom: 2px solid var(--gold);
     }
 
-    .site-nav a:nth-child(2).active {
-      color: var(--research-accent);
-      border-bottom-color: var(--research-accent);
+    /* One strong hierarchy across every tab. */
+    .content > h1:first-of-type,
+    .section-heading h2,
+    .section-heading--compact h2,
+    .academic-panel h2,
+    .content > h2 {
+      color: var(--heading);
     }
 
-    .site-nav a:nth-child(3).active {
-      color: var(--teaching-accent);
-      border-bottom-color: var(--teaching-accent);
+    /* Small gold strokes, rather than gold text, carry the decorative energy. */
+    .section-heading h2::after,
+    .section-heading--compact h2::after,
+    .academic-panel h2::after,
+    .content > h2::after {
+      content: "";
+      display: block;
+      width: 42px;
+      height: 2px;
+      margin-top: 10px;
+      background: var(--gold);
     }
 
-    .site-nav a:nth-child(4).active {
-      color: var(--experience-accent);
-      border-bottom-color: var(--experience-accent);
+    .content > h1:first-of-type::after {
+      content: "";
+      display: block;
+      width: 58px;
+      height: 3px;
+      margin-top: 13px;
+      background: var(--gold);
     }
 
-    /* Main page and section titles: distinct by tab. */
-    .content--about > h1:first-of-type,
-    .content--about .section-heading h2,
-    .content--about .section-heading--compact h2,
-    .content--about .academic-panel h2 {
-      color: var(--about-accent);
-    }
-
-    .content--research > h1:first-of-type,
-    .content--research > h2 {
-      color: var(--research-accent);
-    }
-
-    .content--teaching > h1:first-of-type,
-    .content--teaching > h2 {
-      color: var(--teaching-accent);
-    }
-
-    .content--professional-experience > h1:first-of-type,
-    .content--professional-experience > h2 {
-      color: var(--experience-accent);
-    }
-
-    /* Keep subtitles and entry headings in the existing palette. */
-    .interest-item h3 {
-      color: var(--gold-dark);
-    }
-
+    /* Subtitles stay calm and readable. */
+    .interest-item h3,
     .entry h3,
     .paper-entry h3,
-    .feature-entry h3 {
-      color: var(--link);
+    .feature-entry h3,
+    .compact-entry h3 {
+      color: var(--muted-dark);
+    }
+
+    /* Research-interest columns get tiny accent marks, not competing title colours. */
+    .interest-item {
+      position: relative;
+    }
+
+    .interest-item::before {
+      content: "";
+      display: block;
+      width: 24px;
+      height: 2px;
+      margin-bottom: 12px;
+      background: var(--gold);
+    }
+
+    .interest-item:nth-child(2)::before {
+      background: var(--blue);
+    }
+
+    .interest-item:nth-child(3)::before {
+      background: var(--heading);
     }
 
     .compact-detail span,
@@ -132,9 +150,27 @@
       color: var(--gold-dark);
     }
 
+    a,
     .entry-meta a,
-    .contact-line a {
-      color: var(--link);
+    .contact-line a,
+    .footer-links a {
+      color: var(--blue);
+      text-decoration-color: rgba(73, 104, 120, 0.38);
+    }
+
+    a:hover,
+    .entry-meta a:hover,
+    .contact-line a:hover,
+    .footer-links a:hover {
+      color: var(--blue-hover);
+    }
+
+    .entry-meta,
+    .meta-line,
+    .project-meta,
+    .contact-line,
+    .languages-line {
+      color: var(--muted);
     }
 
     .icon-story__lead {
@@ -147,8 +183,8 @@
 
     .interest-grid,
     .interest-grid--three {
-      border-top-color: var(--gold-soft);
-      border-bottom-color: var(--gold-soft);
+      border-top-color: var(--rule);
+      border-bottom-color: var(--rule);
     }
 
     .compact-entry,
@@ -159,17 +195,56 @@
       border-color: var(--rule);
     }
 
+    /* Give the current paper a quiet journal-like emphasis. */
+    .content--research .feature-entry {
+      border-left: 3px solid var(--gold);
+      padding-left: 22px;
+    }
+
+    .content--research .feature-entry h3 {
+      color: var(--heading-deep);
+    }
+
+    /* A warm ending, still much brighter than the previous footer. */
     .site-footer {
       background: var(--gold-wash);
       border-top-color: var(--gold-soft);
     }
 
     .footer-identity strong {
-      color: var(--gold-dark);
+      color: var(--heading-deep);
     }
 
-    .footer-links a {
-      color: var(--link);
+    .analytics-consent {
+      background: var(--page);
+      border-color: var(--rule-strong);
+    }
+
+    .analytics-consent__button {
+      background: var(--heading-deep);
+      border-color: var(--heading-deep);
+    }
+
+    .analytics-consent__button:hover {
+      background: var(--gold-dark);
+      border-color: var(--gold-dark);
+    }
+
+    @media (max-width: 560px) {
+      .section-heading h2::after,
+      .section-heading--compact h2::after,
+      .academic-panel h2::after,
+      .content > h2::after {
+        width: 34px;
+      }
+
+      .content > h1:first-of-type::after {
+        width: 46px;
+      }
+
+      .content--research .feature-entry {
+        padding-left: 16px;
+      }
     }
   </style>
 </head>
