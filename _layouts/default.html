@@ -24,20 +24,23 @@
       --page: #FBF9F6;
       --ink: #211F1C;
       --muted: #746E67;
-      --muted-dark: #514C46;
+      --muted-dark: #58524C;
       --rule: #E7E1D9;
-      --rule-strong: #D8D0C6;
-      --link: #35586A;
-      --link-hover: #23485A;
-      --sage: #687C70;
-      --sage-dark: #53685D;
-      --clay: #956F60;
-      --plum: #786775;
-      --ochre: #947A53;
-      --soft-sage: #F0F3EF;
-      --soft-blue: #F1F4F5;
-      --soft-warm: #F6F1EB;
-      --soft-plum: #F4F0F3;
+      --rule-strong: #D9D1C7;
+      --link: #4E6877;
+      --link-hover: #3E5967;
+      --accent: #667A70;
+      --accent-blue: #4E6877;
+      --accent-warm: #9A7A68;
+      --soft-sage: #F3F5F2;
+      --soft-blue: #F3F6F8;
+      --soft-warm: #F7F1EB;
+    }
+
+    html,
+    body {
+      background: var(--page);
+      color: var(--ink);
     }
 
     ::selection {
@@ -46,128 +49,62 @@
     }
 
     code {
-      background: #F2EEE9;
+      background: #F3EFE9;
     }
 
-    .site-nav a.active {
-      color: var(--link);
-      border-bottom-color: var(--sage);
+    .site-nav a {
+      color: var(--muted-dark);
     }
 
     .site-nav a:hover {
-      color: var(--link-hover);
-      border-bottom-color: var(--sage);
+      color: var(--accent-blue);
+      border-bottom-color: var(--accent);
     }
 
-    .site-nav a:nth-child(1).active {
-      color: var(--sage-dark);
-      border-bottom-color: var(--sage);
-    }
-
-    .site-nav a:nth-child(2).active {
-      color: var(--link);
-      border-bottom-color: var(--link);
-    }
-
-    .site-nav a:nth-child(3).active {
-      color: var(--clay);
-      border-bottom-color: var(--clay);
-    }
-
-    .site-nav a:nth-child(4).active {
-      color: var(--plum);
-      border-bottom-color: var(--plum);
+    .site-nav a.active {
+      color: var(--ink);
+      border-bottom-color: var(--accent);
     }
 
     .section-heading h2,
     .section-heading--compact h2,
     .academic-panel h2,
     .content > h2 {
-      color: var(--sage-dark);
-    }
-
-    .content--about > h1:first-of-type,
-    .content--about .section-heading h2,
-    .content--about .section-heading--compact h2,
-    .content--about .academic-panel h2 {
-      color: var(--sage-dark);
-    }
-
-    .content--research > h1:first-of-type,
-    .content--research > h2 {
-      color: var(--link);
-    }
-
-    .content--teaching > h1:first-of-type,
-    .content--teaching > h2 {
-      color: var(--clay);
-    }
-
-    .content--professional-experience > h1:first-of-type,
-    .content--professional-experience > h2 {
-      color: var(--plum);
+      color: var(--accent);
     }
 
     .interest-item h3,
     .entry h3,
     .paper-entry h3,
     .feature-entry h3 {
-      color: var(--link);
-    }
-
-    .content--about .interest-item:nth-child(1) h3 {
-      color: var(--sage-dark);
-    }
-
-    .content--about .interest-item:nth-child(2) h3 {
-      color: var(--link);
-    }
-
-    .content--about .interest-item:nth-child(3) h3 {
-      color: var(--clay);
-    }
-
-    .content--teaching .entry h3 {
-      color: var(--clay);
-    }
-
-    .content--professional-experience .entry h3 {
-      color: var(--plum);
-    }
-
-    .content--research li::marker {
-      color: var(--link);
-    }
-
-    .content--teaching li::marker {
-      color: var(--clay);
-    }
-
-    .content--professional-experience li::marker {
-      color: var(--plum);
+      color: var(--accent);
     }
 
     .compact-detail span,
     .label,
     .languages-line span {
-      color: var(--sage-dark);
+      color: var(--muted-dark);
     }
 
-    .contact-line a,
-    .entry-meta a {
-      color: var(--link);
+    .entry-meta a,
+    .contact-line a {
+      color: var(--accent-blue);
     }
 
     .icon-story__lead {
-      color: var(--clay);
-    }
-
-    .footer-identity strong {
-      color: var(--ochre);
+      color: var(--accent-warm);
     }
 
     .site-footer {
       background: var(--soft-warm);
+    }
+
+    .footer-identity strong {
+      color: var(--ink);
+    }
+
+    .footer-links a {
+      color: var(--accent-blue);
     }
   </style>
 </head>
