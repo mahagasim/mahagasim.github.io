@@ -33,6 +33,11 @@
       --gold-soft: #F3E8C8;
       --gold-wash: #F8F2E3;
 
+      --about-accent: #50685D;
+      --research-accent: #456477;
+      --teaching-accent: #8B604C;
+      --experience-accent: #6F5A6A;
+
       --link: #4E6877;
       --link-hover: #3E5967;
       --clay: #8F6B5C;
@@ -67,18 +72,50 @@
       border-bottom-color: var(--gold);
     }
 
-    .site-nav a.active {
-      color: var(--gold-dark);
-      border-bottom-color: var(--gold);
+    .site-nav a:nth-child(1).active {
+      color: var(--about-accent);
+      border-bottom-color: var(--about-accent);
     }
 
-    .section-heading h2,
-    .section-heading--compact h2,
-    .academic-panel h2,
-    .content > h2 {
-      color: var(--gold-dark);
+    .site-nav a:nth-child(2).active {
+      color: var(--research-accent);
+      border-bottom-color: var(--research-accent);
     }
 
+    .site-nav a:nth-child(3).active {
+      color: var(--teaching-accent);
+      border-bottom-color: var(--teaching-accent);
+    }
+
+    .site-nav a:nth-child(4).active {
+      color: var(--experience-accent);
+      border-bottom-color: var(--experience-accent);
+    }
+
+    /* Main page and section titles: distinct by tab. */
+    .content--about > h1:first-of-type,
+    .content--about .section-heading h2,
+    .content--about .section-heading--compact h2,
+    .content--about .academic-panel h2 {
+      color: var(--about-accent);
+    }
+
+    .content--research > h1:first-of-type,
+    .content--research > h2 {
+      color: var(--research-accent);
+    }
+
+    .content--teaching > h1:first-of-type,
+    .content--teaching > h2 {
+      color: var(--teaching-accent);
+    }
+
+    .content--professional-experience > h1:first-of-type,
+    .content--professional-experience > h2 {
+      color: var(--experience-accent);
+    }
+
+    /* Keep subtitles and entry headings in the existing palette. */
     .interest-item h3 {
       color: var(--gold-dark);
     }
