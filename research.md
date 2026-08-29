@@ -11,7 +11,7 @@ description: Research experience, work in progress, and Gateway to Global Aging 
 <div class="entry">
   <h3>Research Grant Holder — PNRR AGE-IT, Spoke 6 (<em>borsa di ricerca</em>)</h3>
   <p class="entry-meta">Department of Economics · Ca’ Foscari University of Venice · January 2025–Present</p>
-  <p>Tutor: Prof. Agar Brugiavini.</p>
+  <p>Tutors: Prof. Agar Brugiavini and Prof. Giacomo Pasini.</p>
   <ul>
     <li><strong>Unilateral divorce law and later-life cognition (SHARE).</strong> Verify national legislation against primary legal sources across countries and languages; code reform dates; construct treatment and exposure variables; prepare the cross-country SHARE panel; estimate the empirical specifications.</li>
     <li>Assess robustness to alternative legal codings, samples, fixed-effects structures, and inference procedures; investigate inconsistencies in data construction and model results before interpretation.</li>
