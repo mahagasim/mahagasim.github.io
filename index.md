@@ -42,17 +42,15 @@ description: About Maha Gasim — research interests, education, advanced traini
     <div class="compact-entry">
       <h3>MSc in Data Analytics for Business and Society</h3>
       <p class="entry-meta">Ca’ Foscari University of Venice · 2022–2024</p>
-      <div class="compact-detail"><span>Thesis</span><div><em>The Health Consequences of Family Dissolution Late in Life: Evidence from SHARE</em></div></div>
+      <div class="compact-detail"><span>Thesis</span><div><em>The Health Consequences of Family Dissolution Late in Life: Evidence from SHARE</em> <span class="entry-meta">(Instrumental-variables analysis exploiting cross-country variation in unilateral-divorce reforms in longitudinal SHARE data.)</span></div></div>
       <div class="compact-detail"><span>Supervisors</span><div>Prof. Danilo Cavapozzi and Prof. Giacomo Pasini</div></div>
-      <p>Instrumental-variables analysis exploiting cross-country variation in unilateral-divorce reforms in longitudinal SHARE data.</p>
     </div>
 
     <div class="compact-entry">
       <h3>BSc (Honours) in Mathematics and Computer Science</h3>
       <p class="entry-meta">University of Khartoum · 2021</p>
-      <div class="compact-detail"><span>Group thesis</span><div><em>Predicting Students’ Final Grades Using Naive Bayes</em></div></div>
+      <div class="compact-detail"><span>Group thesis</span><div><em>Predicting Students’ Final Grades Using Naive Bayes</em> <span class="entry-meta">(Prepared and preprocessed historical student-record data and applied a Naive Bayes classifier in WEKA, evaluating classification performance using standard metrics.)</span></div></div>
       <div class="compact-detail"><span>Supervisor</span><div>Mohammed Khalid Hassan Mohammed</div></div>
-      <p>Prepared and preprocessed historical student-record data and applied a Naive Bayes classifier in WEKA, evaluating classification performance using standard metrics.</p>
     </div>
   </div>
 
