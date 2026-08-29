@@ -92,7 +92,7 @@ description: About Maha Gasim — research interests, education, advanced traini
   </ul>
 </section>
 
-<p class="languages-line"><span>Languages</span> Arabic (native) · English (fluent) · Italian (basic) · French (basic)</p>
+<p class="languages-line"><span>Languages</span> Arabic (native) · English (fluent)</p>
 
 <section class="section-block icon-section">
   <div class="icon-story">
