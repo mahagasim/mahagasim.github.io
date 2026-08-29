@@ -62,19 +62,19 @@ description: About Maha Gasim — research interests, education, advanced traini
     <div class="compact-entry">
       <h3>Inequalities in Health and Healthcare</h3>
       <p class="entry-meta">Tinbergen Institute Summer School · July 2026</p>
-      <p><strong>Instructors:</strong> Owen O’Donnell and Tom Van Ourti · Health inequality, inequity, decomposition, and distributional evaluation.</p>
+      <p class="entry-meta"><em>Instructors: Owen O’Donnell and Tom Van Ourti</em></p>
     </div>
 
     <div class="compact-entry">
       <h3>Causal Inference I</h3>
       <p class="entry-meta">Mixtape Sessions · September–October 2025</p>
-      <p><strong>Instructor:</strong> Scott Cunningham · Potential outcomes, randomisation inference, matching, IV, and RDD.</p>
+      <p class="entry-meta"><em>Instructor: Scott Cunningham</em></p>
     </div>
 
     <div class="compact-entry">
       <h3>Panel Data for Causal Research Designs</h3>
       <p class="entry-meta">SIdE and FBK-IRVAPP · June–July 2025</p>
-      <p><strong>Instructors:</strong> Erich Battistin, Enrico Rettore, Sergiu Burlacu, and Alessio Tomelleri · Fixed effects, DiD, staggered treatment, and synthetic control.</p>
+      <p class="entry-meta"><em>Instructors: Erich Battistin, Enrico Rettore, Sergiu Burlacu, and Alessio Tomelleri</em></p>
     </div>
   </div>
 </section>
