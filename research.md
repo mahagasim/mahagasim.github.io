@@ -1,31 +1,31 @@
 ---
 layout: default
 title: Research
-description: Research positions, research in progress, and policy data products by Maha Gasim.
+description: Research experience, work in progress, and Gateway to Global Aging Data policy reports by Maha Gasim.
 ---
 
 # Research
 
-## Research positions
+## Research experience
 
 <div class="entry">
-  <h3>Research Fellow (Borsista di ricerca) · Department of Economics</h3>
-  <p class="entry-meta">Ca’ Foscari University of Venice · January 2025–Present</p>
-  <p>Supervisors: Agar Brugiavini and Giacomo Pasini.</p>
+  <h3>Research Grant Holder — PNRR AGE-IT, Spoke 6 (<em>borsa di ricerca</em>)</h3>
+  <p class="entry-meta">Department of Economics · Ca’ Foscari University of Venice · January 2025–Present</p>
+  <p>Tutor: Prof. Agar Brugiavini.</p>
   <ul>
-    <li>Verify national legislation and reform dates, construct policy and exposure variables, and build harmonized cross-country SHARE panels.</li>
-    <li>Estimate and stress-test empirical specifications across alternative legal codings, samples, fixed-effects structures, and inference procedures.</li>
-    <li>Prepare comparative long-term-care policy documentation for the Gateway to Global Aging Data.</li>
+    <li><strong>Unilateral divorce law and later-life cognition (SHARE).</strong> Verify national legislation against primary legal sources across countries and languages; code reform dates; construct treatment and exposure variables; prepare the cross-country SHARE panel; estimate the empirical specifications.</li>
+    <li>Assess robustness to alternative legal codings, samples, fixed-effects structures, and inference procedures; investigate inconsistencies in data construction and model results before interpretation.</li>
+    <li><strong>Retirement policy and SHARE.</strong> Construct cross-country retirement-policy information, including early-retirement and eligibility rules, and link policy information to SHARE data for empirical analysis.</li>
+    <li><strong>Gateway to Global Aging Data.</strong> Prepare comparative long-term-care policy documentation for the Gateway at the University of Southern California, reconstructing benefit rules, eligibility conditions, and reform histories from primary legal and administrative sources.</li>
   </ul>
 </div>
 
 <div class="entry">
-  <h3>VERA Research Grant Holder · Venice Centre in Economic and Risk Analytics</h3>
-  <p class="entry-meta">Ca’ Foscari University of Venice · June–October 2023</p>
-  <p>Supervisors: Danilo Cavapozzi and Giacomo Pasini.</p>
+  <h3>Research Intern — VERA Academy Internship Grant</h3>
+  <p class="entry-meta">Venice Centre in Economic and Risk Analytics for Public Policies (VERA) · Ca’ Foscari University of Venice · June–October 2023</p>
+  <p>Supervisors: Prof. Danilo Cavapozzi and Prof. Giacomo Pasini.</p>
   <ul>
-    <li>Built harmonized panel datasets for cross-country empirical analysis.</li>
-    <li>Ran descriptive and regression analyses of ageing, family structure, and policy outcomes.</li>
+    <li>Surveyed the reference literature, constructed a SHARE micro-dataset in Stata, and conducted descriptive and regression analyses of ageing, family structure, and related outcomes.</li>
   </ul>
 </div>
 
@@ -33,21 +33,20 @@ description: Research positions, research in progress, and policy data products 
 
 <div class="entry feature-entry paper-entry">
   <h3><em>Marrying after the Unilateral Divorce Law: Long-run Effects on Later-life Cognition</em></h3>
-  <p class="entry-meta">Co-authored with V. Angelini, M. Bertoni, D. Cavapozzi, G. Pasini, and Maha Gasim</p>
-  <p>This project uses SHARE and cross-country variation in divorce-law reforms to study later-life cognitive outcomes. My work includes verifying national legal reforms, constructing policy and exposure variables, building the harmonized cross-country panel, estimating the empirical specifications, and testing robustness to alternative codings, samples, fixed-effects structures, and inference procedures.</p>
-  <p class="entry-meta">Presented at the University of Trieste · 27 March 2026</p>
+  <p>Angelini, V., Bertoni, M., <strong>Gasim, M.</strong>, Pasini, G., and Cavapozzi, D.</p>
+  <p class="entry-meta">Work in progress · Presented at the University of Trieste, 27 March 2026</p>
 </div>
 
-## Policy documentation and data products
+## Policy reports: Gateway to Global Aging Data
 
 <div class="entry">
   <h3>Romania: Long-Term Care In-Kind Benefit Plan (2000–2025)</h3>
-  <p>Gasim, M., Lee, Y., &amp; Knapp, D. (2025). Gateway Policy Explorer, Gateway to Global Aging Data, University of Southern California.</p>
-  <p class="entry-meta">DOI: <a href="https://doi.org/10.25553/gpe.ltc.kb.rou">10.25553/gpe.ltc.kb.rou</a></p>
+  <p><strong>Gasim, M.</strong>, Lee, Y., and Knapp, D. (2025). <em>Gateway Policy Explorer</em>, Gateway to Global Aging Data, University of Southern California. Lead author.</p>
+  <p class="entry-meta">Published · DOI: <a href="https://doi.org/10.25553/gpe.ltc.kb.rou">10.25553/gpe.ltc.kb.rou</a></p>
 </div>
 
 <div class="entry">
   <h3>Poland: Long-Term Care Cash Benefit Plan (1999–2026)</h3>
-  <p>Tang, H., Lee, Y., Gasim, M., &amp; Knapp, D. Gateway to Global Aging Data, University of Southern California.</p>
-  <p class="entry-meta">Under editorial review at Gateway.</p>
+  <p>Tang, H., Lee, Y., <strong>Gasim, M.</strong>, and Knapp, D. <em>Gateway to Global Aging Data</em>, University of Southern California.</p>
+  <p class="entry-meta">Under review</p>
 </div>
