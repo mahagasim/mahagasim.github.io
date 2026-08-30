@@ -8,7 +8,7 @@ description: About Maha Gasim — research interests, education, advanced traini
 
 <p class="page-intro">I am a Research Grant Holder (<em>borsa di ricerca</em>) in the Department of Economics at Ca’ Foscari University of Venice, working within PNRR AGE-IT, Spoke 6. My research interests are in health economics and the economics of ageing, cognition and health over the life course, causal inference and quasi-experimental policy evaluation, family and retirement policy, and the construction of cross-country policy data for use with harmonised longitudinal ageing surveys. My current work combines longitudinal ageing data with cross-country policy information on family, retirement, and long-term-care institutions.</p>
 
-<p class="entry-meta contact-line"><a href="mailto:maha.gasim@unive.it">maha.gasim@unive.it</a> · <a href="https://www.linkedin.com/in/maha-gasim-678975122">LinkedIn</a> · <a href="https://orcid.org/0000-0002-0859-2915" target="_blank" rel="noopener">ORCID</a></p>
+<p class="entry-meta contact-line"><a href="mailto:maha.gasim@unive.it">maha.gasim@unive.it</a> · <a href="mailto:mahagasim@gmail.com">mahagasim@gmail.com</a> · <a href="https://www.linkedin.com/in/maha-gasim-678975122">LinkedIn</a> · <a href="https://orcid.org/0000-0002-0859-2915" target="_blank" rel="noopener">ORCID</a></p>
 
 <section class="section-block">
   <div class="section-heading section-heading--compact">
