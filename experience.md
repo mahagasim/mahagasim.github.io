@@ -7,7 +7,7 @@ description: Selected professional experience in data analytics, monitoring and 
 # Professional Experience
 
 <div class="entry">
-  <h3>Data Analytics Consultant</h3>
+  <h3>Consultant</h3>
   <p class="entry-meta">Internews · Remote · 2023–2025</p>
   <ul>
     <li>Analysed social-media data to identify humanitarian needs and information gaps.</li>
