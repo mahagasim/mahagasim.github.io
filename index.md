@@ -6,9 +6,9 @@ description: About Maha Gasim — research interests, education, advanced traini
 
 # Maha Gasim
 
-<p class="page-intro">I am a Research Grant Holder (<em>borsa di ricerca</em>) in the Department of Economics at Ca’ Foscari University of Venice, working within PNRR AGE-IT, Spoke 6. My research interests are in health economics and the economics of ageing, cognition and health over the life course, causal inference and quasi-experimental policy evaluation, family and retirement policy, and harmonised cross-country longitudinal ageing data. My current work combines longitudinal ageing surveys with cross-country policy information, including family, retirement, and long-term-care institutions.</p>
+<p class="page-intro">I am a Research Grant Holder (<em>borsa di ricerca</em>) in the Department of Economics at Ca’ Foscari University of Venice, working within PNRR AGE-IT, Spoke 6. My research interests are in health economics and the economics of ageing, cognition and health over the life course, causal inference and quasi-experimental policy evaluation, family and retirement policy, and the construction of cross-country policy data for use with harmonised longitudinal ageing surveys. My current work combines longitudinal ageing data with cross-country policy information on family, retirement, and long-term-care institutions.</p>
 
-<p class="entry-meta contact-line"><a href="mailto:mahagasim@gmail.com">Email</a> · <a href="https://www.linkedin.com/in/maha-gasim-678975122">LinkedIn</a> · <a href="https://orcid.org/0000-0002-0859-2915" target="_blank" rel="noopener">ORCID</a></p>
+<p class="entry-meta contact-line"><a href="mailto:maha.gasim@unive.it">maha.gasim@unive.it</a> · <a href="https://www.linkedin.com/in/maha-gasim-678975122">LinkedIn</a> · <a href="https://orcid.org/0000-0002-0859-2915" target="_blank" rel="noopener">ORCID</a></p>
 
 <section class="section-block">
   <div class="section-heading section-heading--compact">
@@ -30,7 +30,7 @@ description: About Maha Gasim — research interests, education, advanced traini
 
     <div class="interest-item">
       <h3>Causal inference</h3>
-      <p>Quasi-experimental policy evaluation, including instrumental-variables designs and training in difference-in-differences, regression discontinuity, synthetic control, matching, and randomisation inference.</p>
+      <p>Quasi-experimental policy evaluation, including regression-discontinuity and instrumental-variables designs, with training in difference-in-differences, synthetic control, matching, and randomisation inference.</p>
     </div>
   </div>
 </section>
@@ -41,7 +41,7 @@ description: About Maha Gasim — research interests, education, advanced traini
 
     <div class="compact-entry">
       <h3>MSc in Data Analytics for Business and Society</h3>
-      <p class="entry-meta">Ca’ Foscari University of Venice · 2022–2024</p>
+      <p class="entry-meta">Department of Economics · Ca’ Foscari University of Venice · 2022–2024</p>
       <div class="compact-detail"><span>Thesis</span><div><em>The Health Consequences of Family Dissolution Late in Life: Evidence from SHARE</em> <span class="thesis-note">(Instrumental-variables analysis exploiting cross-country variation in unilateral-divorce reforms in longitudinal SHARE data.)</span></div></div>
       <div class="compact-detail"><span>Supervisors</span><div>Prof. Danilo Cavapozzi and Prof. Giacomo Pasini</div></div>
     </div>
@@ -49,7 +49,7 @@ description: About Maha Gasim — research interests, education, advanced traini
     <div class="compact-entry">
       <h3>BSc (Honours) in Mathematics and Computer Science</h3>
       <p class="entry-meta">University of Khartoum · 2021</p>
-      <div class="compact-detail"><span>Group thesis</span><div><em>Predicting Students’ Final Grades Using Naive Bayes</em> <span class="thesis-note">(Prepared and preprocessed historical student-record data and applied a Naive Bayes classifier in WEKA, evaluating classification performance using standard metrics.)</span></div></div>
+      <div class="compact-detail"><span>Group thesis</span><div><em>Predicting Student’s Final Grade Using Naive Bayes</em> <span class="thesis-note">(Prepared and preprocessed historical student-record data and applied a Naive Bayes classifier in WEKA, evaluating classification performance using standard metrics.)</span></div></div>
       <div class="compact-detail"><span>Supervisor</span><div>Mohammed Khalid Hassan Mohammed</div></div>
     </div>
   </div>
@@ -85,10 +85,11 @@ description: About Maha Gasim — research interests, education, advanced traini
   </div>
 
   <ul class="skills-list skills-list--academic">
-    <li><span class="label">Applied in research:</span> Instrumental variables; longitudinal and panel-data analysis; regression analysis; verification and coding of policy reforms; construction of treatment and exposure variables; robustness and sensitivity analysis.</li>
-    <li><span class="label">Covered in training:</span> Difference-in-differences and staggered-treatment designs; regression discontinuity; synthetic control; matching; randomisation inference.</li>
-    <li><span class="label">Ageing and policy data:</span> SHARE and SHARELIFE; harmonised HRS-family datasets, including HRS and ELSA, through the Gateway to Global Aging Data; cross-country retirement and long-term-care policy information reconstructed from primary sources.</li>
-    <li><span class="label">Software:</span> Stata (primary; used in research and teaching); R; Python.</li>
+    <li><span class="label">Applied in research:</span> Regression discontinuity; instrumental variables; longitudinal and panel-data analysis; construction of running, treatment, and exposure variables; coding of policy reforms from primary sources.</li>
+    <li><span class="label">Covered in training:</span> Difference-in-differences and staggered-treatment designs; synthetic control; matching; randomisation inference.</li>
+    <li><span class="label">Ageing data:</span> Harmonized SHARE (waves 1–2, 4–9) and SHARELIFE in research; Gateway-harmonised HRS-family datasets in teaching.</li>
+    <li><span class="label">Policy data:</span> Cross-country retirement and long-term-care rules coded from primary legal and administrative sources.</li>
+    <li><span class="label">Software:</span> Stata (primary; research and teaching); R; Python.</li>
   </ul>
 </section>
 
