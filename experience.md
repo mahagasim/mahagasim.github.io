@@ -34,3 +34,21 @@ description: Selected professional experience in data analytics, monitoring and 
     <li>Prepared monthly financial and management reports, monitored budgets, reconciled income against system records, and contributed to quarterly programme-evaluation surveys.</li>
   </ul>
 </div>
+
+## Volunteering
+
+<div class="entry">
+  <h3>Volunteer · AmalAfrica</h3>
+  <p class="entry-meta">Khartoum, Sudan · February–August 2018</p>
+  <ul>
+    <li>Contributed to participant selection for educational and training initiatives as a member of the selection committee and supported outreach through social-media and online-source coordination.</li>
+  </ul>
+</div>
+
+<div class="entry">
+  <h3>STEM Education Volunteer · NLHM</h3>
+  <p class="entry-meta">Khartoum, Sudan · November 2017–October 2018</p>
+  <ul>
+    <li>Taught HTML and CSS to young students and collected participant feedback to support programme improvement.</li>
+  </ul>
+</div>
