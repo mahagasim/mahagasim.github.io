@@ -20,7 +20,8 @@ description: Selected professional experience in data analytics, monitoring and 
   <h3>Program Associate</h3>
   <p class="entry-meta">International Republican Institute · Sudan · May 2021–October 2022</p>
   <ul>
-    <li>Supported programme implementation and monitoring; maintained programme resource files for monitoring, evaluation and internal reporting; contributed to data collection and programme documentation.</li>
+    <li>Implemented and monitored programme activities and supported monitoring and evaluation through data collection, maintenance of programme records, and internal reporting.</li>
+    <li>Researched and prepared programme documents and training materials, and coordinated stakeholder communication and programme-related logistics.</li>
   </ul>
 </div>
 
