@@ -17,12 +17,10 @@ description: Selected professional experience in data analytics, monitoring and 
 </div>
 
 <div class="entry">
-  <h3>Program / MEAL Associate</h3>
-  <p class="entry-meta">International Republican Institute · Sudan · 2021–2022</p>
+  <h3>Program Associate</h3>
+  <p class="entry-meta">International Republican Institute · Sudan · May 2021–October 2022</p>
   <ul>
-    <li>Coordinated monitoring and evaluation activities.</li>
-    <li>Improved data reliability and reporting.</li>
-    <li>Trained staff on data-quality standards.</li>
+    <li>Supported programme implementation and monitoring, maintained programme resource files for monitoring, evaluation and internal reporting, and contributed to data collection and programme documentation.</li>
   </ul>
 </div>
 
