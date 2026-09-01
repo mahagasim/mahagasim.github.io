@@ -27,7 +27,7 @@ description: Selected professional experience in data analytics, monitoring and 
 
 <div class="entry">
   <h3>Multiple Programme, Finance &amp; Operational Roles</h3>
-  <p class="entry-meta">British Council · Sudan · January 2018–April 2021</p>
+  <p class="entry-meta">British Council · Sudan · April 2018–April 2021</p>
   <ul>
     <li>Held successive roles across programme support, teaching-centre operations, external-audit support, and finance support.</li>
     <li>As Acting Teaching Centre Resource Coordinator, supervised a five-person team and coordinated teaching-centre operations.</li>
