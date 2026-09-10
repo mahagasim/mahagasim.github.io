@@ -10,7 +10,7 @@ description: Research experience, work in progress, and Gateway to Global Aging 
 
 <div class="entry">
   <h3>Research Grant Holder — PNRR AGE-IT, Spoke 6 (<em>borsa di ricerca</em>)</h3>
-  <p class="entry-meta">Department of Economics · Ca’ Foscari University of Venice · January 2025–Present</p>
+  <p class="entry-meta">Department of Economics · Ca’ Foscari University of Venice · 1 January 2025–Present · Current grant to 31 October 2026</p>
   <p>Tutor: Prof. Agar Brugiavini; research collaboration with Prof. Giacomo Pasini.</p>
   <ul>
     <li><strong>Unilateral divorce law and later-life cognition.</strong> Build the estimation panel from Harmonized SHARE (waves 1–2, 4–9) with childhood measures from SHARELIFE; construct the cognition outcomes, running variable, and treatment indicator; verify national legislation and code reform dates against primary legal sources.</li>
