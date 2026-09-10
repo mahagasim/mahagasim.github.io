@@ -41,14 +41,14 @@ description: About Maha Gasim — research interests, education, advanced traini
 
     <div class="compact-entry">
       <h3>MSc in Data Analytics for Business and Society</h3>
-      <p class="entry-meta">Department of Economics · Ca’ Foscari University of Venice · 2022–2024</p>
+      <p class="entry-meta">Department of Economics · Ca’ Foscari University of Venice · 2022–2024 · Degree awarded 31 October 2024</p>
       <div class="compact-detail"><span>Thesis</span><div><em>The Health Consequences of Family Dissolution Late in Life: Evidence from SHARE</em> <span class="thesis-note">(Instrumental-variables analysis exploiting cross-country variation in unilateral-divorce reforms in longitudinal SHARE data.)</span></div></div>
       <div class="compact-detail"><span>Supervisors</span><div>Prof. Danilo Cavapozzi and Prof. Giacomo Pasini</div></div>
     </div>
 
     <div class="compact-entry">
       <h3>BSc (Honours) in Mathematics and Computer Science</h3>
-      <p class="entry-meta">University of Khartoum · 2021</p>
+      <p class="entry-meta">University of Khartoum · March 2021</p>
       <div class="compact-detail"><span>Group thesis</span><div><em>Predicting Student’s Final Grade Using Naive Bayes</em> <span class="thesis-note">(Prepared and preprocessed historical student-record data and applied a Naive Bayes classifier in WEKA, evaluating classification performance using standard metrics.)</span></div></div>
       <div class="compact-detail"><span>Supervisor</span><div>Mohammed Khalid Hassan Mohammed</div></div>
     </div>
