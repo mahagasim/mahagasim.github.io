@@ -16,7 +16,6 @@ description: Research experience, work in progress, and Gateway to Global Aging 
     <li><strong>Unilateral divorce law and later-life cognition.</strong> Build the estimation panel from Harmonized SHARE (waves 1–2, 4–9) with childhood measures from SHARELIFE; construct the cognition outcomes, running variable, and treatment indicator; verify national legislation and code reform dates against primary legal sources.</li>
     <li>Implement the co-authors’ multi-country regression discontinuity design, including baseline and donut specifications, RD plots, country-clustered inference, and Webb wild-cluster-bootstrap inference with a small number of clusters.</li>
     <li>Assess gender heterogeneity, selection and composition at the cutoff, and robustness to alternative legal codings, samples, fixed-effects structures, and inference procedures.</li>
-    <li><strong>Retirement policy.</strong> Collect and code cross-country retirement rules — normal and early-retirement eligibility ages, including variation by cohort, sex, and contribution history — and build country-year and country-cohort policy tables for use with SHARE.</li>
     <li><strong>Long-term-care policy, Gateway to Global Aging Data (University of Southern California).</strong> Prepare comparative policy documentation, reconstructing benefit rules, eligibility conditions, and reform histories from primary legal and administrative sources.</li>
   </ul>
 </div>
