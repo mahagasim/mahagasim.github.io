@@ -1,37 +1,44 @@
 ---
 layout: default
 title: Professional Experience
-description: Selected professional experience in data analytics, monitoring and evaluation, and programme management.
+description: Selected professional experience in humanitarian data analysis, monitoring and evaluation, programme support, and operations.
 ---
 
 # Professional Experience
 
 <div class="entry">
-  <h3>Consultant</h3>
-  <p class="entry-meta">Internews · Remote · September 2023–February 2025</p>
+  <h3>Social Media Community Liaison</h3>
+  <p class="entry-meta">Internews Network · Remote · 17 January 2024–15 February 2025</p>
   <ul>
-    <li>Analysed social-media data to identify humanitarian needs and information gaps.</li>
-    <li>Strengthened data-quality and analytical workflows.</li>
-    <li>Prepared evidence-based reports.</li>
+    <li>Supported service mapping and data workflows for the Signpost platform and analysed field and social-media data to identify humanitarian needs and information gaps.</li>
+    <li>Prepared evidence-based updates and briefing material for the Sudan humanitarian response.</li>
+  </ul>
+</div>
+
+<div class="entry">
+  <h3>Humanitarian Social Media Monitor</h3>
+  <p class="entry-meta">Internews Europe · Remote, based in Italy · 13 September–24 October 2023</p>
+  <ul>
+    <li>Analysed social-media data related to the Sudan conflict and reported emerging needs and information gaps for humanitarian coordination.</li>
   </ul>
 </div>
 
 <div class="entry">
   <h3>Program Associate</h3>
-  <p class="entry-meta">International Republican Institute · Sudan · May 2021–October 2022</p>
+  <p class="entry-meta">International Republican Institute · Sudan · 1 May 2021–31 October 2022</p>
   <ul>
-    <li>Implemented and monitored programme activities and supported monitoring and evaluation through data collection, maintenance of programme records, and internal reporting.</li>
-    <li>Researched and prepared programme documents and training materials, and coordinated stakeholder communication and programme-related logistics.</li>
+    <li>Implemented and monitored programme activities and supported monitoring and evaluation through data collection, programme records, and reporting.</li>
+    <li>Researched and prepared programme documents and training materials, supported stakeholder communication, and coordinated programme-related logistics.</li>
   </ul>
 </div>
 
 <div class="entry">
-  <h3>Multiple Programme, Finance &amp; Operational Roles</h3>
-  <p class="entry-meta">British Council · Sudan · April 2018–April 2021</p>
+  <h3>British Council · Successive Programme, Finance &amp; Operational Roles</h3>
+  <p class="entry-meta">Sudan · 1 April 2018–30 April 2021</p>
   <ul>
-    <li>Held successive roles across programme support, teaching-centre operations, external-audit support, and finance support.</li>
+    <li>Held successive appointments in customer service, programme support, teaching-centre operations, external-audit support, and finance support.</li>
     <li>As Acting Teaching Centre Resource Coordinator, supervised a five-person team and coordinated teaching-centre operations.</li>
-    <li>Prepared monthly financial and management reports, monitored budgets, reconciled income against system records, and contributed to quarterly programme-evaluation surveys.</li>
+    <li>Supported operational and financial reporting and contributed to programme-evaluation activities.</li>
   </ul>
 </div>
 
