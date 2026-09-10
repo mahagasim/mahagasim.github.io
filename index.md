@@ -6,7 +6,7 @@ description: About Maha Gasim — research interests, education, advanced traini
 
 # Maha Gasim
 
-<p class="page-intro">I am a Research Grant Holder (<em>borsa di ricerca</em>) in the Department of Economics at Ca’ Foscari University of Venice, working within PNRR AGE-IT, Spoke 6. My research interests are in health economics and the economics of ageing, cognition and health over the life course, causal inference and quasi-experimental policy evaluation, family and retirement policy, and the construction of cross-country policy data for use with harmonised longitudinal ageing surveys. My current work combines longitudinal ageing data with cross-country policy information on family, retirement, and long-term-care institutions.</p>
+<p class="page-intro">I am a Research Grant Holder (<em>borsa di ricerca</em>) in the Department of Economics at Ca’ Foscari University of Venice, working within PNRR AGE-IT, Spoke 6. My research interests are in health economics and the economics of ageing, cognition and health over the life course, causal inference and quasi-experimental policy evaluation, and family, education, retirement, and long-term-care policy. My current work combines longitudinal ageing data with cross-country policy information and institutional reform histories.</p>
 
 <p class="entry-meta contact-line"><a href="mailto:maha.gasim@unive.it">maha.gasim@unive.it</a> · <a href="mailto:mahagasim@gmail.com">mahagasim@gmail.com</a> · <a href="https://www.linkedin.com/in/maha-gasim-678975122">LinkedIn</a> · <a href="https://orcid.org/0000-0002-0859-2915" target="_blank" rel="noopener">ORCID</a></p>
 
@@ -20,12 +20,12 @@ description: About Maha Gasim — research interests, education, advanced traini
   <div class="interest-grid interest-grid--three">
     <div class="interest-item">
       <h3>Health economics &amp; ageing</h3>
-      <p>Health, cognition, and ageing over the life course, using longitudinal data to study later-life outcomes.</p>
+      <p>Health and cognition over the life course, with a particular interest in later-life outcomes and ageing populations.</p>
     </div>
 
     <div class="interest-item">
       <h3>Policy &amp; institutions</h3>
-      <p>Family, retirement, and long-term-care policy, with particular attention to cross-country institutional variation and reform histories.</p>
+      <p>Family, education, retirement, and long-term-care policy, with attention to cross-country institutional variation and reform histories.</p>
     </div>
 
     <div class="interest-item">
@@ -59,19 +59,19 @@ description: About Maha Gasim — research interests, education, advanced traini
 
     <div class="compact-entry">
       <h3>Inequalities in Health and Healthcare</h3>
-      <p class="entry-meta">Tinbergen Institute Summer School · July 2026</p>
+      <p class="entry-meta">Tinbergen Institute Summer School · Online · 6–10 July 2026</p>
       <p class="entry-meta"><em>Instructors: Owen O’Donnell and Tom Van Ourti</em></p>
     </div>
 
     <div class="compact-entry">
       <h3>Causal Inference I</h3>
-      <p class="entry-meta">Mixtape Sessions · September–October 2025</p>
+      <p class="entry-meta">Mixtape Sessions · Online · 27–28 September and 4–5 October 2025</p>
       <p class="entry-meta"><em>Instructor: Scott Cunningham</em></p>
     </div>
 
     <div class="compact-entry">
       <h3>Panel Data for Causal Research Designs</h3>
-      <p class="entry-meta">SIdE and FBK-IRVAPP · June–July 2025</p>
+      <p class="entry-meta">SIdE and FBK-IRVAPP · Bertinoro, Italy · 30 June–4 July 2025</p>
       <p class="entry-meta"><em>Instructors: Erich Battistin, Enrico Rettore, Sergiu Burlacu, and Alessio Tomelleri</em></p>
     </div>
   </div>
@@ -87,9 +87,9 @@ description: About Maha Gasim — research interests, education, advanced traini
   <ul class="skills-list skills-list--academic">
     <li><span class="label">Applied in research:</span> Regression discontinuity; instrumental variables; longitudinal and panel-data analysis; construction of running, treatment, and exposure variables; coding of policy reforms from primary sources.</li>
     <li><span class="label">Covered in training:</span> Difference-in-differences and staggered-treatment designs; synthetic control; matching; randomisation inference.</li>
-    <li><span class="label">Ageing data:</span> Harmonized SHARE (waves 1–2, 4–9) and SHARELIFE in research; Gateway-harmonised HRS-family datasets in teaching.</li>
+    <li><span class="label">Ageing data:</span> Harmonized SHARE and SHARELIFE; Gateway-harmonised HRS, ELSA, and TILDA.</li>
     <li><span class="label">Policy data:</span> Cross-country retirement and long-term-care rules coded from primary legal and administrative sources.</li>
-    <li><span class="label">Software:</span> Stata (primary; research and teaching); R; Python.</li>
+    <li><span class="label">Software:</span> Stata; R; Python.</li>
   </ul>
 </section>
 
