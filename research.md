@@ -34,7 +34,7 @@ description: Research experience, work in progress, and Gateway to Global Aging 
 <div class="entry feature-entry paper-entry">
   <h3><em>Marrying after the Unilateral Divorce Law: Long-run Effects on Later-life Cognition</em></h3>
   <p>Angelini, V., Bertoni, M., Cavapozzi, D., Pasini, G., and <strong>Gasim, M.</strong></p>
-  <p class="entry-meta">Work in progress · Presented at the University of Trieste, 27 March 2026, and CUFE Workshop, Beijing, July 2026 (by G. Pasini)</p>
+  <p class="entry-meta">Work in progress · Presented at the University of Trieste, March 2026, and CUFE Workshop, Beijing, July 2026 (by G. Pasini)</p>
 </div>
 
 ## Policy reports: Gateway to Global Aging Data
