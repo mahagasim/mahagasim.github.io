@@ -33,14 +33,11 @@ description: Selected professional experience in humanitarian data analysis, mon
 </div>
 
 <div class="entry">
-  <h3>British Council · Successive Programme, Finance &amp; Operational Roles</h3>
-  <p class="entry-meta">Sudan · 1 April 2018–30 April 2021</p>
+  <h3>British Council — Programme, Finance &amp; Operational Roles</h3>
+  <p class="entry-meta">Sudan · April 2018–April 2021</p>
   <ul>
-    <li>Teaching Centre Invigilator and Customer Service Advisor · 1 April–27 December 2018.</li>
-    <li>Program Assistant (Social Enterprise) · 1 February–18 March 2019.</li>
-    <li>Acting Teaching Centre Resource Coordinator · 25 August 2019–31 May 2020; supervised a five-person team and coordinated teaching-centre operations.</li>
-    <li>SSU External Audit Support · 29 December 2020–10 January 2021.</li>
-    <li>Finance Support · 21 February–30 April 2021.</li>
+    <li>Held successive roles as Teaching Centre Invigilator and Customer Service Advisor, Program Assistant (Social Enterprise), SSU External Audit Support, and Finance Support.</li>
+    <li>As Acting Teaching Centre Resource Coordinator, supervised a five-person team and coordinated teaching-centre operations.</li>
   </ul>
 </div>
 
