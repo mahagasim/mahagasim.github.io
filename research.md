@@ -1,10 +1,32 @@
 ---
 layout: default
 title: Research
-description: Research experience, work in progress, and Gateway to Global Aging Data policy reports by Maha Gasim.
+description: Research in progress, Gateway to Global Aging Data policy reports, and research experience by Maha Gasim.
 ---
 
 # Research
+
+## Research in progress
+
+<div class="entry feature-entry paper-entry">
+  <h3><em>Marrying after the Unilateral Divorce Law: Long-run Effects on Later-life Cognition</em></h3>
+  <p>Angelini, V., Bertoni, M., Cavapozzi, D., Pasini, G., and <strong>Gasim, M.</strong></p>
+  <p class="entry-meta">Work in progress · Presented by G. Pasini at the University of Trieste (March 2026), CUFE Workshop, Beijing (July 2026), and ASSET Conference, Cagliari (November 2026)</p>
+</div>
+
+## Policy reports: Gateway to Global Aging Data
+
+<div class="entry">
+  <h3>Romania: Long-Term Care In-Kind Benefit Plan (2000–2025)</h3>
+  <p><strong>Gasim, M.</strong>, Lee, Y., and Knapp, D. (2025). <em>Gateway Policy Explorer</em>, Gateway to Global Aging Data, University of Southern California.</p>
+  <p class="entry-meta">Published · Lead author · DOI: <a href="https://doi.org/10.25553/gpe.ltc.kb.rou">10.25553/gpe.ltc.kb.rou</a></p>
+</div>
+
+<div class="entry">
+  <h3>Poland: Long-Term Care Cash Benefit Plan (1999–2026)</h3>
+  <p>Tang, H., Lee, Y., <strong>Gasim, M.</strong>, and Knapp, D. <em>Gateway to Global Aging Data</em>, University of Southern California.</p>
+  <p class="entry-meta">Under review</p>
+</div>
 
 ## Research experience
 
@@ -32,26 +54,4 @@ description: Research experience, work in progress, and Gateway to Global Aging 
   <ul>
     <li>Worked on the project <em>Marriage Stability, Health and Care in Old AGE</em>; surveyed the reference literature, constructed a SHARE micro-dataset in Stata, and conducted descriptive and regression analyses.</li>
   </ul>
-</div>
-
-## Research in progress
-
-<div class="entry feature-entry paper-entry">
-  <h3><em>Marrying after the Unilateral Divorce Law: Long-run Effects on Later-life Cognition</em></h3>
-  <p>Angelini, V., Bertoni, M., Cavapozzi, D., Pasini, G., and <strong>Gasim, M.</strong></p>
-  <p class="entry-meta">Work in progress · Presented by G. Pasini at the University of Trieste (March 2026), CUFE Workshop, Beijing (July 2026), and ASSET Conference, Cagliari (November 2026)</p>
-</div>
-
-## Policy reports: Gateway to Global Aging Data
-
-<div class="entry">
-  <h3>Romania: Long-Term Care In-Kind Benefit Plan (2000–2025)</h3>
-  <p><strong>Gasim, M.</strong>, Lee, Y., and Knapp, D. (2025). <em>Gateway Policy Explorer</em>, Gateway to Global Aging Data, University of Southern California.</p>
-  <p class="entry-meta">Published · Lead author · DOI: <a href="https://doi.org/10.25553/gpe.ltc.kb.rou">10.25553/gpe.ltc.kb.rou</a></p>
-</div>
-
-<div class="entry">
-  <h3>Poland: Long-Term Care Cash Benefit Plan (1999–2026)</h3>
-  <p>Tang, H., Lee, Y., <strong>Gasim, M.</strong>, and Knapp, D. <em>Gateway to Global Aging Data</em>, University of Southern California.</p>
-  <p class="entry-meta">Under review</p>
 </div>
