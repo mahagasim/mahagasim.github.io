@@ -10,7 +10,7 @@ description: Selected professional experience in humanitarian data analysis, mon
   <h3>Social Media Community Liaison</h3>
   <p class="entry-meta">Internews Network · Remote · 17 January 2024–15 February 2025</p>
   <ul>
-    <li>Analysed field and social-media data to identify humanitarian needs, emerging trends, and information gaps related to Sudan.</li>
+    <li>Analysed data collected on the ground in Sudan by local partner organisations, alongside social-media data, to identify humanitarian needs, emerging trends, and information gaps.</li>
     <li>Prepared analytical reports, presentations, and briefings to communicate findings and support humanitarian information activities.</li>
     <li>Supported service mapping and data-collection workflows for the Signpost platform.</li>
   </ul>
