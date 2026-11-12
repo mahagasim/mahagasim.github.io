@@ -6,7 +6,7 @@ description: About Maha Gasim — PhD student in Economics at the University of 
 
 # Maha Gasim
 
-<p class="page-intro">I am a PhD student in Economics in the Economics, Management, and Quantitative Methods (EMQM) programme at the University of Sassari. Previously, I held a research grant (<em>borsa di ricerca</em>) in the Department of Economics at Ca’ Foscari University of Venice under PNRR AGE-IT, Spoke 6. My research interests are in health economics and the economics of ageing, cognition and health over the life course, causal inference and quasi-experimental policy evaluation, and family, education, retirement, and long-term-care policy. My work combines longitudinal ageing data with cross-country policy information and institutional reform histories.</p>
+<p class="page-intro">I am a PhD student in Economics at the University of Sassari, enrolled in the Economics, Management, and Quantitative Methods (EMQM) programme. My research interests lie in health economics, ageing, and applied microeconometrics, with a focus on causal inference and policy evaluation. Previously, I held a research grant in the Department of Economics at Ca’ Foscari University of Venice under PNRR AGE-IT, Spoke 6.</p>
 
 <p class="entry-meta contact-line"><a href="mailto:maha.gasim@phd.uniss.it">maha.gasim@phd.uniss.it</a> · <a href="mailto:m.gasimomerfdlals@studenti.uniss.it">m.gasimomerfdlals@studenti.uniss.it</a> · <a href="mailto:mahagasim@gmail.com">mahagasim@gmail.com</a> · <a href="https://www.linkedin.com/in/maha-gasim-678975122">LinkedIn</a> · <a href="https://orcid.org/0000-0002-0859-2915" target="_blank" rel="noopener">ORCID</a></p>
 
