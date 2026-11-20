@@ -10,31 +10,6 @@ description: About Maha Gasim — PhD student in Economics at the University of 
 
 <p class="entry-meta contact-line"><a href="mailto:maha.gasim@phd.uniss.it">maha.gasim@phd.uniss.it</a> · <a href="mailto:mahagasim@gmail.com">mahagasim@gmail.com</a> · <a href="https://www.linkedin.com/in/maha-gasim-678975122">LinkedIn</a> · <a href="https://orcid.org/0000-0002-0859-2915" target="_blank" rel="noopener">ORCID</a></p>
 
-<section class="section-block">
-  <div class="section-heading section-heading--compact">
-    <div>
-      <h2>Research interests</h2>
-    </div>
-  </div>
-
-  <div class="interest-grid interest-grid--three">
-    <div class="interest-item">
-      <h3>Health economics &amp; ageing</h3>
-      <p>Health and cognition over the life course, with a particular interest in later-life outcomes and ageing populations.</p>
-    </div>
-
-    <div class="interest-item">
-      <h3>Policy &amp; institutions</h3>
-      <p>Labour markets, education, family, retirement, and long-term-care policy, with attention to institutional variation and policy reforms.</p>
-    </div>
-
-    <div class="interest-item">
-      <h3>Causal inference</h3>
-      <p>Quasi-experimental policy evaluation, including regression-discontinuity and instrumental-variables designs, with training in difference-in-differences, synthetic control, matching, and randomisation inference.</p>
-    </div>
-  </div>
-</section>
-
 <section class="section-block two-panel-section">
   <div class="academic-panel">
     <h2>Education</h2>
