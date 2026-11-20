@@ -64,20 +64,17 @@ description: About Maha Gasim — PhD student in Economics at the University of 
 
     <div class="compact-entry">
       <h3>Inequalities in Health and Healthcare</h3>
-      <p class="entry-meta">Tinbergen Institute Summer School · Online · 6–10 July 2026</p>
-      <p class="entry-meta"><em>Instructors: Owen O’Donnell and Tom Van Ourti</em></p>
+      <p class="entry-meta">Tinbergen Institute Summer School (Online) · Instructors: Owen O’Donnell and Tom Van Ourti · 6–10 July 2026</p>
     </div>
 
     <div class="compact-entry">
       <h3>Causal Inference I</h3>
-      <p class="entry-meta">Mixtape Sessions · Online · 27–28 September and 4–5 October 2025</p>
-      <p class="entry-meta"><em>Instructor: Scott Cunningham</em></p>
+      <p class="entry-meta">Mixtape Sessions (Online) · Instructor: Scott Cunningham · 27–28 September and 4–5 October 2025</p>
     </div>
 
     <div class="compact-entry">
       <h3>Panel Data for Causal Research Designs</h3>
-      <p class="entry-meta">SIdE and FBK-IRVAPP · Bertinoro, Italy · 30 June–4 July 2025</p>
-      <p class="entry-meta"><em>Instructors: Erich Battistin, Enrico Rettore, Sergiu Burlacu, and Alessio Tomelleri</em></p>
+      <p class="entry-meta">SIdE and FBK-IRVAPP (Bertinoro, Italy) · Instructors: Erich Battistin, Enrico Rettore, Sergiu Burlacu, and Alessio Tomelleri · 30 June–4 July 2025</p>
     </div>
   </div>
 </section>
