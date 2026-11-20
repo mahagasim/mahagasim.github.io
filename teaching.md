@@ -16,7 +16,7 @@ description: Teaching experience in econometrics, Stata, and harmonised ageing d
 
 <div class="entry">
   <h3>Instructor · Hands-on Session on the Gateway to Global Aging Data</h3>
-  <p class="entry-meta">Summer Institute on Ageing · Venice International University · 9 June 2025 and 2026 edition (8–12 June 2026)</p>
+  <p class="entry-meta">Summer Institute on Ageing · Venice International University · 9 June 2025 and 9 June 2026</p>
   <ul>
     <li>Introduced the Gateway and harmonised ageing surveys; led a hands-on Stata session on data preparation, descriptive analysis, subgroup comparisons and data visualisation.</li>
   </ul>
