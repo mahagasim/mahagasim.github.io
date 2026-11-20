@@ -10,10 +10,9 @@ description: Selected professional experience in humanitarian data analysis, mon
   <h3>Consultant</h3>
   <p class="entry-meta">Internews Network · Remote · 17 January 2024–15 February 2025<br>Internews Europe · Remote · 13 September–24 October 2023</p>
   <ul>
-    <li>Monitored and analysed social-media data related to the Sudan conflict to identify humanitarian needs, emerging trends, and information gaps.</li>
-    <li>Analysed field data collected by local partner organisations in Sudan alongside social-media data to assess humanitarian needs and information gaps.</li>
+    <li>Monitored and analysed social-media data and field data collected by local partner organisations in Sudan to identify humanitarian needs, information gaps, emerging rumours, and misinformation related to the Sudan conflict.</li>
     <li>Produced analytical reports, presentations, and briefings to communicate findings and inform humanitarian response and coordination.</li>
-    <li>Contributed to service mapping and data-management workflows for the Signpost platform.</li>
+    <li>Contributed to service mapping, information management, and data-management workflows for the Signpost platform.</li>
   </ul>
 </div>
 
