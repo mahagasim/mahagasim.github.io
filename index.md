@@ -6,7 +6,7 @@ description: About Maha Gasim — PhD student in Economics at the University of 
 
 # Maha Gasim
 
-<p class="page-intro">I am a PhD student in Economics at the University of Sassari, enrolled in the Economics, Management, and Quantitative Methods (EMQM) programme. My research interests lie in health economics, ageing, and applied microeconometrics, with a focus on causal inference and policy evaluation. Previously, I held a research grant in the Department of Economics at Ca’ Foscari University of Venice under PNRR AGE-IT, Spoke 6.</p>
+<p class="page-intro">I am a PhD student in Economics at the University of Sassari, enrolled in the Economics, Management, and Quantitative Methods (EMQM) programme. My research interests span applied microeconomics, particularly health, labour, education, and the economics of ageing. My methodological interests include applied microeconometrics, causal inference, and policy evaluation. Previously, I held a research grant in the Department of Economics at Ca’ Foscari University of Venice under PNRR AGE-IT, Spoke 6.</p>
 
 <p class="entry-meta contact-line"><a href="mailto:maha.gasim@phd.uniss.it">maha.gasim@phd.uniss.it</a> · <a href="mailto:mahagasim@gmail.com">mahagasim@gmail.com</a> · <a href="https://www.linkedin.com/in/maha-gasim-678975122">LinkedIn</a> · <a href="https://orcid.org/0000-0002-0859-2915" target="_blank" rel="noopener">ORCID</a></p>
 
@@ -25,7 +25,7 @@ description: About Maha Gasim — PhD student in Economics at the University of 
 
     <div class="interest-item">
       <h3>Policy &amp; institutions</h3>
-      <p>Family, education, retirement, and long-term-care policy, with attention to cross-country institutional variation and reform histories.</p>
+      <p>Labour markets, education, family, retirement, and long-term-care policy, with attention to institutional variation and policy reforms.</p>
     </div>
 
     <div class="interest-item">
