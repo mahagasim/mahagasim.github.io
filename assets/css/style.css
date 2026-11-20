@@ -306,9 +306,9 @@ h3 {
 }
 
 .section-block + .section-block {
-  margin-top: var(--section-space);
-  padding-top: 58px;
-  border-top: 1px solid var(--rule);
+  margin-top: 64px;
+  padding-top: 0;
+  border-top: 0;
 }
 
 .section-heading,
@@ -334,10 +334,16 @@ h3 {
 
 .content > h2 {
   width: min(100%, var(--interior-width));
-  margin: 62px 0 26px;
-  padding-top: 46px;
-  border-top: 1px solid var(--rule);
+  margin: 56px 0 24px;
+  padding-top: 0;
+  border-top: 0;
   font-size: var(--h2-size);
+}
+
+/* Keep the first section close to the page title. */
+.content > h1:first-of-type + h2,
+.content > h1:first-of-type + .entry {
+  margin-top: 28px;
 }
 
 /* =========================================================
@@ -393,9 +399,9 @@ h3 {
 }
 
 .academic-panel + .academic-panel {
-  margin-top: 58px;
-  padding-top: 52px;
-  border-top: 1px solid var(--rule);
+  margin-top: 60px;
+  padding-top: 0;
+  border-top: 0;
 }
 
 .academic-panel h2 {
@@ -569,6 +575,13 @@ h3 {
 .paper-entry ul,
 .feature-entry ul {
   margin-top: 10px;
+}
+
+/* Apply the same content-to-divider spacing to text and list entries. */
+.entry > :last-child,
+.paper-entry > :last-child,
+.feature-entry > :last-child {
+  margin-bottom: 0;
 }
 
 /* =========================================================
@@ -760,12 +773,28 @@ h3 {
 
   .section-block + .section-block {
     margin-top: 50px;
-    padding-top: 42px;
+    padding-top: 0;
   }
 
   .academic-panel + .academic-panel {
-    margin-top: 46px;
-    padding-top: 42px;
+    margin-top: 50px;
+    padding-top: 0;
+  }
+
+  .content > h2 {
+    margin-top: 48px;
+  }
+
+  .content > h1:first-of-type + h2,
+  .content > h1:first-of-type + .entry {
+    margin-top: 24px;
+  }
+
+  .entry,
+  .paper-entry,
+  .feature-entry {
+    padding-bottom: 24px;
+    margin-bottom: 28px;
   }
 
   .compact-detail {
